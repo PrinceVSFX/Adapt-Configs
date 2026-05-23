@@ -1,3 +1,9 @@
+# profile-title: ⚫ MAIN | Ω Омега — Чёрный список | 99 SS + Trojan
+# profile-update-interval: 1
+# Date/Time: 2026-05-23 / 19:00 (Moscow)
+# Количество: 99
+# Source: https://github.com/PrinceVSFX/V2Ray-Configs/tree/main
+
 ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J-Hsw@176.57.211.166:8443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2F94ce96d3-840d-4320-9b9b-07bdba018212%2F%3Fed%5C%3D2560%3Bmux%3D0%3Bskip-cert-verify%3Dtrue%3Bhost%3Dss.lrdxw.club%3Btls%3Bsni%3D%40oneclickvpnkeys#%CE%A9%20%D0%9E%D0%BC%D0%B5%D0%B3%D0%B0%20-%20%231
 ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J-Hsw@90.156.211.232:8443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2F94ce96d3-840d-4320-9b9b-07bdba018212%2F%3Fed%5C%3D2560%3Bmux%3D0%3Bskip-cert-verify%3Dtrue%3Bhost%3Dss.lrdxw.club%3Btls%3Bsni%3Dhttps%3A%2F%2Ft.me%2Foneclickvpnkeys#%CE%A9%20%D0%9E%D0%BC%D0%B5%D0%B3%D0%B0%20-%20%232
 ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J-Hsw@90.156.211.232:8443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2F94ce96d3-840d-4320-9b9b-07bdba018212%2F%3Fed%5C%3D2560%3Bmux%3D0%3Bskip-cert-verify%3Dtrue%3Bhost%3Dss.lrdxw.club%3Btls%3Bsni%3Dhttps%3A%2F%2Ft.me%2Foneclickvpnkeys#%CE%A9%20%D0%9E%D0%BC%D0%B5%D0%B3%D0%B0%20-%20%233
