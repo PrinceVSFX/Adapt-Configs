@@ -1,3 +1,9 @@
+# profile-title: ⚪ WHITE | 🐉 Гидра — Белый список | 64 VLESS
+# profile-update-interval: 1
+# Date/Time: 2026-05-23 / 19:00 (Moscow)
+# Количество: 64
+# Source: https://github.com/PrinceVSFX/V2Ray-Configs/tree/main
+
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?encryption=none&host=sni.jpmj.dev&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%90%89%20%D0%93%D0%B8%D0%B4%D1%80%D0%B0%20-%20%231
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.138:2096?encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%90%89%20%D0%93%D0%B8%D0%B4%D1%80%D0%B0%20-%20%232
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?encryption=none&host=sni.jpmj.dev&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%90%89%20%D0%93%D0%B8%D0%B4%D1%80%D0%B0%20-%20%233
