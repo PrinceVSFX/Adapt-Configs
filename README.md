@@ -1,6 +1,6 @@
 <img src="Materials/png/adapt.png" width="400" alt="Описание"> 
 
-Config Информация. 
+Configs Информация. 
 
 1. Black - Основной список. Названия ключей - Kepler 
 
