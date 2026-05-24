@@ -60,46 +60,10 @@ Keep both lists and stay always connected!
 
 ### Links
 
-- **Black (Kepler):** `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt`
+- **Black (Kepler):**
+`https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt`
 - **White (Albedo):**
 `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt`
- 
-## Recommended Apps
-
-### Android
-- **Hiddify** — Universal client. Supports VLESS, Reality, Hysteria2 and more. Auto-selects the fastest node, free.
-- **v2rayNG** — Popular client with Xray and v2fly core support.
-- **Exclave** — Modern client supporting VLESS, VMess, Trojan, Shadowsocks.
-
-### iOS
-- **Hiddify** — Universal client. Supports VLESS, Reality, Hysteria2 and more. Auto-selects the fastest node, free.
-- **Happ** — Convenient proxy management app. No data collection, Russian language available. Requires iOS 15.0+.
-- **Alice Ray** — Universal client with Russian interface.
-
-### macOS
-- **Hiddify** — Universal client. Supports VLESS, Reality, Hysteria2 and more. Auto-selects the fastest node, free.
-- **V2Ray Client+** — Free ad-free client. Supports VLESS Reality, XTLS.
-- **Throne** — Sing-box based GUI client. Supports VLESS, Trojan, Hysteria2, Wireguard.
-
-### Windows
-- **Hiddify** — Universal client. Supports VLESS, Reality, Hysteria2 and more. Auto-selects the fastest node, free.
-- **Throne** — Powerful Sing-box based GUI client. Supports all major protocols.
-- **v2rayN** — GUI client with easy key import via clipboard.
-
-### Linux
-- **Hiddify** — Universal client. Supports VLESS, Reality, Hysteria2 and more. Auto-selects the fastest node, free.
-
-| List | Key names | When to use |
-|------|-----------|-------------|
-| **Black (Kepler)** | `Kepler` | Everyday, primary solution |
-| **White (Albedo)** | `Albedo` | When Kepler doesn't work or you need maximum bypass |
-
-Keep both lists and stay always connected!
-
-### Links
-
-- **Black (Kepler):** [Black_list.txt] `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt`
-- **White (Albedo):** [White_list.txt](https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt)
 
 ## Recommended Apps
 
