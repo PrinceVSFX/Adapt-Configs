@@ -1,7 +1,7 @@
 # profile-title: ⚫ BLACK | 🪐 Кеплер — Чёрный список
 # profile-update-interval: 1
-# Date/Time: 2026-05-24 / 21:30 (Moscow)
-# Количество: 33
+# Date/Time: 2026-05-24 / 23:20 (Moscow)
+# Количество: 37
 
 vless://5e6242ef-7e51-4f8a-8441-bdd3381b7000@87.120.219.103:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jfQ43JU-FeRkFdHGJT5NBCX0GZaWTZjC7N23Z2POsh8&security=reality&sid=97e4b5f5&sni=vk.com&type=tcp#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%231
 vless://62541eb9-fa3d-4d3d-880e-ceb517dc52f0@87.239.135.116:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fySMRTC4X8TFAGNlb7bOZUV2wzWU8VWFO8-tuLl9Mms&security=reality&sid=d52700a8&sni=vk.com&type=tcp#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%232
@@ -36,3 +36,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@217.11.167.62:8443?host=Koma-YT.PAGeS.Dev&path
 vless://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443?encryption=none&fp=chrome&pbk=MYU0vSA5rfofPjIwynqoPsr60F_swjCHCDX0yJPKwT0&security=reality&sid=08bf0000&sni=yahoo.com&type=tcp#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%2332
 vless://3d432b43-5912-48f6-8471-785e317be30b@194.67.204.107:23120?encryption=none&fp=chrome&pbk=jMWMA90IiVdejaafCQd_BHow1Fe3hkkqxGl47VK3UTQ&security=reality&sid=5b&type=grpc#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%2330
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.38.143.62:8443?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%2333
+trojan://8r%3C%5B9%27l6hAO%238ZQi@89.110.108.189:2053?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%2335
+vless://c88a24ec-ddb0-4601-a4b6-c909e6c52385@fr-u7.vpn-port.com:443?encryption=none&fp=chrome&pbk=wi5NCnDS34b6JDrUJt8zAS9LdqK4zCQTd-cBzI_ZN0w&security=reality&sid=f543d493e6a197e1&sni=www.yimg.com&type=grpc#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%2337
+trojan://8r%3C%5B9%27l6hAO%238ZQi@193.164.155.226:2053?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%2336
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.105.59:2053?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%2334
