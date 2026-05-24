@@ -19,5 +19,6 @@ White (Albedo) — подключайте, когда Kepler не справля
 
 📁 Ссылка на Black (Kepler)
 `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt`
+
 📁 Ссылка на White (Albedo)
 `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt`
