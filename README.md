@@ -5,44 +5,61 @@
 
 <img src="Materials/png/adapt.png" width="400" alt="Описание"> 
 
----
+Добро пожаловать! Здесь вы найдёте готовые конфигурации для быстрого и стабильного подключения.
 
-## 🇷🇺 Русский
+## 🔐 Конфиги
 
-Готовые VPN-конфигурации с ежедневным обновлением и автоматическим подбором самых быстрых серверов.
+### 1. Black — Основной список. Ключи: Kepler
+> Представьте себе мир, где нет «запертых дверей». Где информация течёт свободно. Именно так выглядит экзопланета Kepler-452b — «старший брат» Земли. Наш список Main работает по тому же принципу. Это ваш базовый, надёжный канал, созданный для обхода блокировок. С ним вы всегда на связи, независимо от внешних условий.
 
-⚡ Подключение занимает меньше минуты.
+### 2. White — Белый список. Ключи: Albedo
+> Слышали про альбедо? Это физическая величина, которая показывает, сколько света отражает поверхность. У свежего снега альбедо близко к 100%. Наш список Albedo — это квинтэссенция белого цвета. Он не просто обходит ограничения, он «отражает» их, проходя сквозь белые списки там, где обычные ключи бессильны.
 
-### ⭐ Особенности
-- 📡 Автообновление конфигов  
-- ⚡ Сортировка по скорости (ping)  
-- 🌍 Поддержка нескольких протоколов  
-- 🔄 Быстрое переключение серверов  
-- 📱 Поддержка всех популярных клиентов  
+### 🎯 Что выбрать для подключения?
 
-🔗 **Полная инструкция:**  
-👉 [Открыть README_RU.md](./README_RU.md)
+| Список | Ключи | Когда использовать |
+|--------|-------|-------------------|
+| **Black (Kepler)** | `Kepler` | Основное, повседневное решение |
+| **White (Albedo)** | `Albedo` | Когда Kepler не справляется или нужен максимальный обход |
 
----
+Сохраняйте оба списка и будьте всегда на связи! ☀️
 
-## 🇬🇧 English
+### 📁 Ссылки на конфиги
 
-Ready-to-use VPN configs with daily updates and automatic fastest server selection.
+- **Black (Kepler):** [Main_list.txt](https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/Main_list.txt)
+- **White (Albedo):** [White_list.txt](https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt)
 
-⚡ Connect in under a minute.
+## 📱 Рекомендуемые приложения
 
-### ⭐ Features
-- 📡 Auto-updating configs  
-- ⚡ Speed-based sorting (ping)  
-- 🌍 Multiple protocol support  
-- 🔄 Fast server switching  
-- 📱 Works with all popular clients  
+### ⚡ Hiddify — Универсальный клиент (рекомендован)
+Поддерживает **Android, iOS, Windows, macOS, Linux**.
 
-🔗 **Full guide:**  
-👉 [Open README_ENG.md](./README_ENG.md)
+**Протоколы:** VLESS, VMess, Reality, TUIC, Hysteria2, Trojan, SSH, Shadowsocks.
+**Особенности:** Автовыбор быстрого узла, отображение трафика, импорт ссылок в один клик, без рекламы.
 
----
+### 📋 Полный список по платформам
 
-## 📄 License
+| Платформа | Приложение | Протоколы |
+|-----------|-----------|-----------|
+| **Android** | v2rayNG | Xray, v2fly core |
+| | Exclave | VLESS, VMess, Trojan, Shadowsocks |
+| **iOS** | Happ | VLESS, Reality, VMess, Trojan, SS, Hysteria2 |
+| | Alice Ray | VLESS, VMESS, SS, Trojan |
+| **macOS** | V2Ray Client+ | VLESS Reality, XTLS |
+| | Throne | VLESS, Trojan, Hysteria2, Wireguard |
+| **Windows** | Throne | Все основные протоколы + SOCKS |
+| | v2rayN | Shadowsocks, VLESS, VMess |
 
-This project is licensed under the MIT License — see the LICENSE file for details.
+## 🚀 Быстрый старт
+
+1.  **Скачайте подходящее приложение** из списка выше.
+2.  **Скопируйте ссылку** на конфиг (Black или White).
+3.  **Импортируйте** её в приложение (обычно через ➕ или "Import from Clipboard").
+4.  **Подключитесь** и наслаждайтесь свободным интернетом.
+
+## ⚠️ Важно
+- Не используйте конфиги для незаконной деятельности.
+- Сохраните оба списка, чтобы всегда иметь запасной вариант.
+
+### 🌟 Звёздочка проекту
+Если конфиги помогли, поставь ⭐ вверху страницы! Это мотивирует обновлять списки.
