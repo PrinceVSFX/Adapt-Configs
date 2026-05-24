@@ -27,7 +27,7 @@
 
 ### Ссылки
 
-- **Black (Kepler):** [Main_list.txt](https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/Main_list.txt)
+- **Black (Kepler):** [Main_list.txt] `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt`
 - **White (Albedo):** [White_list.txt](https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt)
 
 ## Рекомендуемые приложения
@@ -59,7 +59,7 @@ Keep both lists and stay always connected!
 
 ### Links
 
-- **Black (Kepler):** [Main_list.txt](https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/Main_list.txt)
+- **Black (Kepler):** [Black_list.txt] `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt`
 - **White (Albedo):** [White_list.txt](https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt)
 
 ## Recommended Apps
@@ -87,55 +87,6 @@ Keep both lists and stay always connected!
 ### Linux
 - **Hiddify** — Universal client. Supports VLESS, Reality, Hysteria2 and more. Auto-selects the fastest node, free.
 
-| Список | Название ключей | Когда использовать |
-|--------|-----------------|--------------------|
-| **Black (Kepler)** | `Kepler` | Основное, повседневное решение |
-| **White (Albedo)** | `Albedo` | Когда Kepler не справляется или нужен максимальный обход |
-
-Сохраняйте оба списка и будьте всегда на связи!
-
-### Ссылки
-
-- **Black (Kepler):** [Main_list.txt](https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/Main_list.txt)
-- **White (Albedo):** [White_list.txt](https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt)
-
-## Рекомендуемые приложения
-
-Android
-- **Hiddify** — Универсальный клиент. Поддержка VLESS, Reality, Hysteria2 и др. Автовыбор узла, бесплатный.
-- **v2rayNG** — Популярный клиент с поддержкой Xray и v2fly core.
-- **Exclave** — Современный клиент с поддержкой VLESS, VMess, Trojan, Shadowsocks.
-
-iOS
-- **Hiddify** — Универсальный клиент. Поддержка VLESS, Reality, Hysteria2 и др. Автовыбор узла, бесплатный.
-- **Happ** — Удобное приложение для управления прокси-серверами. Не собирает данные, есть русский язык. Требуется iOS 15.0+.
-- **Alice Ray** — Универсальный клиент с русским интерфейсом.
-
-macOS
-- **Hiddify** — Универсальный клиент. Поддержка VLESS, Reality, Hysteria2 и др. Автовыбор узла, бесплатный.
-- **V2Ray Client+** — Бесплатный клиент без рекламы. Поддерживает VLESS Reality, XTLS.
-- **Throne** — GUI-клиент на базе Sing-box. Поддержка VLESS, Trojan, Hysteria2, Wireguard.
-
-Windows
-- **Hiddify** — Универсальный клиент. Поддержка VLESS, Reality, Hysteria2 и др. Автовыбор узла, бесплатный.
-- **Throne** — Мощный GUI-клиент на базе Sing-box. Поддержка всех основных протоколов.
-- **v2rayN** — GUI-клиент с удобным импортом ключей через буфер обмена.
-
-Linux
-- **Hiddify** — Универсальный клиент. Поддержка VLESS, Reality, Hysteria2 и др. Автовыбор узла, бесплатный.
-
-# Adapt / Information
-
-1. Black — Main list. Key names: Kepler
-
-Imagine a world with no "locked doors." A world where information flows freely. That's exactly what the exoplanet Kepler-452b — Earth's "big brother" — looks like. Our Main list works on the same principle. It's your basic, reliable channel, built to bypass restrictions. With it, you're always connected, no matter the external conditions.
-
-2. White — Whitelist. Key names: Albedo
-
-Have you heard of albedo? It's a physical quantity that measures how much light a surface reflects. Fresh snow has an albedo close to 100%. Our Albedo list is the quintessence of white. It doesn't just bypass restrictions — it "reflects" them, passing through whitelists where ordinary keys are powerless.
-
-### Which one to choose?
-
 | List | Key names | When to use |
 |------|-----------|-------------|
 | **Black (Kepler)** | `Kepler` | Everyday, primary solution |
@@ -145,7 +96,7 @@ Keep both lists and stay always connected!
 
 ### Links
 
-- **Black (Kepler):** [Black_list.txt](https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/Main_list.txt)
+- **Black (Kepler):** [Black_list.txt] `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt`
 - **White (Albedo):** [White_list.txt](https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt)
 
 ## Recommended Apps
