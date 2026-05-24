@@ -1,6 +1,6 @@
 # profile-title: ⚫ MAIN | 🪐 Кеплер — Чёрный список
 # profile-update-interval: 1
-# Date/Time: 2026-05-23 / 19:00 (Moscow)
+# Date/Time: 2026-05-24 / 10:00 (Moscow)
 # Количество: 5
 # Source: https://github.com/PrinceVSFX/V2Ray-Configs/tree/main
 
