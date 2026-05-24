@@ -1,65 +1,99 @@
-<p align="center">
-  <a href="#-русский">🇷🇺 RU</a> | 
-  <a href="#-english">🇬🇧 EN</a>
-</p>
-
 <img src="Materials/png/adapt.png" width="400" alt="Описание"> 
 
-Добро пожаловать! Здесь вы найдёте готовые конфигурации для быстрого и стабильного подключения.
+# Adapt / Информация
 
-## 🔐 Конфиги
+1. Black — Основной список. Названия ключей: Kepler
 
-### 1. Black — Основной список. Ключи: Kepler
-> Представьте себе мир, где нет «запертых дверей». Где информация течёт свободно. Именно так выглядит экзопланета Kepler-452b — «старший брат» Земли. Наш список Main работает по тому же принципу. Это ваш базовый, надёжный канал, созданный для обхода блокировок. С ним вы всегда на связи, независимо от внешних условий.
+Представьте себе мир, где нет «запертых дверей». Где информация течёт свободно. Именно так выглядит экзопланета Kepler-452b — «старший брат» Земли. Наш список Main работает по тому же принципу. Это ваш базовый, надёжный канал, созданный для обхода блокировок. С ним вы всегда на связи, независимо от внешних условий.
 
-### 2. White — Белый список. Ключи: Albedo
-> Слышали про альбедо? Это физическая величина, которая показывает, сколько света отражает поверхность. У свежего снега альбедо близко к 100%. Наш список Albedo — это квинтэссенция белого цвета. Он не просто обходит ограничения, он «отражает» их, проходя сквозь белые списки там, где обычные ключи бессильны.
+2. White — Белый список. Названия ключей: Albedo
 
-### 🎯 Что выбрать для подключения?
+Слышали про альбедо? Это физическая величина, которая показывает, сколько света отражает поверхность. У свежего снега альбедо близко к 100%. Наш список Albedo — это квинтэссенция белого цвета. Он не просто обходит ограничения, он «отражает» их, проходя сквозь белые списки там, где обычные ключи бессильны.
 
-| Список | Ключи | Когда использовать |
-|--------|-------|-------------------|
+### Что выбрать для подключения?
+
+| Список | Название ключей | Когда использовать |
+|--------|-----------------|--------------------|
 | **Black (Kepler)** | `Kepler` | Основное, повседневное решение |
 | **White (Albedo)** | `Albedo` | Когда Kepler не справляется или нужен максимальный обход |
 
-Сохраняйте оба списка и будьте всегда на связи! ☀️
+Сохраняйте оба списка и будьте всегда на связи!
 
-### 📁 Ссылки на конфиги
+### Ссылки
 
 - **Black (Kepler):** [Main_list.txt](https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/Main_list.txt)
 - **White (Albedo):** [White_list.txt](https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt)
 
-## 📱 Рекомендуемые приложения
+## Рекомендуемые приложения
 
-### ⚡ Hiddify — Универсальный клиент (рекомендован)
-Поддерживает **Android, iOS, Windows, macOS, Linux**.
+Android
+- **Hiddify** — Универсальный клиент. Поддержка VLESS, Reality, Hysteria2 и др. Автовыбор узла, бесплатный.
+- **v2rayNG** — Популярный клиент с поддержкой Xray и v2fly core.
+- **Exclave** — Современный клиент с поддержкой VLESS, VMess, Trojan, Shadowsocks.
 
-**Протоколы:** VLESS, VMess, Reality, TUIC, Hysteria2, Trojan, SSH, Shadowsocks.
-**Особенности:** Автовыбор быстрого узла, отображение трафика, импорт ссылок в один клик, без рекламы.
+iOS
+- **Hiddify** — Универсальный клиент. Поддержка VLESS, Reality, Hysteria2 и др. Автовыбор узла, бесплатный.
+- **Happ** — Удобное приложение для управления прокси-серверами. Не собирает данные, есть русский язык. Требуется iOS 15.0+.
+- **Alice Ray** — Универсальный клиент с русским интерфейсом.
 
-### 📋 Полный список по платформам
+macOS
+- **Hiddify** — Универсальный клиент. Поддержка VLESS, Reality, Hysteria2 и др. Автовыбор узла, бесплатный.
+- **V2Ray Client+** — Бесплатный клиент без рекламы. Поддерживает VLESS Reality, XTLS.
+- **Throne** — GUI-клиент на базе Sing-box. Поддержка VLESS, Trojan, Hysteria2, Wireguard.
 
-| Платформа | Приложение | Протоколы |
-|-----------|-----------|-----------|
-| **Android** | v2rayNG | Xray, v2fly core |
-| | Exclave | VLESS, VMess, Trojan, Shadowsocks |
-| **iOS** | Happ | VLESS, Reality, VMess, Trojan, SS, Hysteria2 |
-| | Alice Ray | VLESS, VMESS, SS, Trojan |
-| **macOS** | V2Ray Client+ | VLESS Reality, XTLS |
-| | Throne | VLESS, Trojan, Hysteria2, Wireguard |
-| **Windows** | Throne | Все основные протоколы + SOCKS |
-| | v2rayN | Shadowsocks, VLESS, VMess |
+Windows
+- **Hiddify** — Универсальный клиент. Поддержка VLESS, Reality, Hysteria2 и др. Автовыбор узла, бесплатный.
+- **Throne** — Мощный GUI-клиент на базе Sing-box. Поддержка всех основных протоколов.
+- **v2rayN** — GUI-клиент с удобным импортом ключей через буфер обмена.
 
-## 🚀 Быстрый старт
+Linux
+- **Hiddify** — Универсальный клиент. Поддержка VLESS, Reality, Hysteria2 и др. Автовыбор узла, бесплатный.
 
-1.  **Скачайте подходящее приложение** из списка выше.
-2.  **Скопируйте ссылку** на конфиг (Black или White).
-3.  **Импортируйте** её в приложение (обычно через ➕ или "Import from Clipboard").
-4.  **Подключитесь** и наслаждайтесь свободным интернетом.
+# Adapt / Information
 
-## ⚠️ Важно
-- Не используйте конфиги для незаконной деятельности.
-- Сохраните оба списка, чтобы всегда иметь запасной вариант.
+1. Black — Main list. Key names: Kepler
 
-### 🌟 Звёздочка проекту
-Если конфиги помогли, поставь ⭐ вверху страницы! Это мотивирует обновлять списки.
+Imagine a world with no "locked doors." A world where information flows freely. That's exactly what the exoplanet Kepler-452b — Earth's "big brother" — looks like. Our Main list works on the same principle. It's your basic, reliable channel, built to bypass restrictions. With it, you're always connected, no matter the external conditions.
+
+2. White — Whitelist. Key names: Albedo
+
+Have you heard of albedo? It's a physical quantity that measures how much light a surface reflects. Fresh snow has an albedo close to 100%. Our Albedo list is the quintessence of white. It doesn't just bypass restrictions — it "reflects" them, passing through whitelists where ordinary keys are powerless.
+
+### Which one to choose?
+
+| List | Key names | When to use |
+|------|-----------|-------------|
+| **Black (Kepler)** | `Kepler` | Everyday, primary solution |
+| **White (Albedo)** | `Albedo` | When Kepler doesn't work or you need maximum bypass |
+
+Keep both lists and stay always connected!
+
+### Links
+
+- **Black (Kepler):** [Main_list.txt](https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/Main_list.txt)
+- **White (Albedo):** [White_list.txt](https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt)
+
+## Recommended Apps
+
+Android
+- **Hiddify** — Universal client. Supports VLESS, Reality, Hysteria2 and more. Auto-selects the fastest node, free.
+- **v2rayNG** — Popular client with Xray and v2fly core support.
+- **Exclave** — Modern client supporting VLESS, VMess, Trojan, Shadowsocks.
+
+iOS
+- **Hiddify** — Universal client. Supports VLESS, Reality, Hysteria2 and more. Auto-selects the fastest node, free.
+- **Happ** — Convenient proxy management app. No data collection, Russian language available. Requires iOS 15.0+.
+- **Alice Ray** — Universal client with Russian interface.
+
+macOS
+- **Hiddify** — Universal client. Supports VLESS, Reality, Hysteria2 and more. Auto-selects the fastest node, free.
+- **V2Ray Client+** — Free ad-free client. Supports VLESS Reality, XTLS.
+- **Throne** — Sing-box based GUI client. Supports VLESS, Trojan, Hysteria2, Wireguard.
+
+Windows
+- **Hiddify** — Universal client. Supports VLESS, Reality, Hysteria2 and more. Auto-selects the fastest node, free.
+- **Throne** — Powerful Sing-box based GUI client. Supports all major protocols.
+- **v2rayN** — GUI client with easy key import via clipboard.
+
+Linux
+- **Hiddify** — Universal client. Supports VLESS, Reality, Hysteria2 and more. Auto-selects the fastest node, free.
