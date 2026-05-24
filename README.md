@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/license/PrinceVSFX/Vless-Configs?style=for-the-badge">
 </p>
 
-(Configs/png/Configs/png/adapt.png) 
+(images/Configs/png/adapt.png) 
 
 ---
 
