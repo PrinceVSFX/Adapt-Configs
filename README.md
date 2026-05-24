@@ -27,8 +27,9 @@
 
 ### Ссылки
 
-- **Black (Kepler):** [Main_list.txt] `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt`
-- **White (Albedo):** [White_list.txt](https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt)
+- **Black (Kepler):** `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt`
+- **White (Albedo):**
+`https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt `
 
 ## Рекомендуемые приложения
 
@@ -59,9 +60,10 @@ Keep both lists and stay always connected!
 
 ### Links
 
-- **Black (Kepler):** [Black_list.txt] `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt`
-- **White (Albedo):** [White_list.txt](https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt)
-
+- **Black (Kepler):** `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt`
+- **White (Albedo):**
+`https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt`
+ 
 ## Recommended Apps
 
 ### Android
