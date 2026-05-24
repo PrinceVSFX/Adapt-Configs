@@ -3,13 +3,7 @@
   <a href="#-english">🇬🇧 EN</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/PrinceVSFX/Vless-Configs?style=for-the-badge">
-  <img src="https://img.shields.io/github/last-commit/PrinceVSFX/Vless-Configs?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/PrinceVSFX/Vless-Configs?style=for-the-badge">
-</p>
-
-<img src="Configs/png/adapt.png" width="400" alt="Описание"> 
+<img src="Materials/png/adapt.png" width="400" alt="Описание"> 
 
 ---
 
