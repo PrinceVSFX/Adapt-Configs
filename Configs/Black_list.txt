@@ -1,0 +1,11 @@
+# profile-title: ⚫ MAIN | 🪐 Кеплер — Чёрный список
+# profile-update-interval: 1
+# Date/Time: 2026-05-24 / 10:00 (Moscow)
+# Количество: 5
+# Source: https://github.com/PrinceVSFX/V2Ray-Configs/tree/main
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@164.38.155.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%234
+vless://35fd6e20-d441-4403-bf75-3182f43a4489@50.7.90.252:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI&security=reality&sni=cdn.trahodrom.fun&type=tcp#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%231
+hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.150:443/?sni=holz3.api3-max.ru#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%232
+trojan://8r%3C%5B9%27l6hAO%238ZQi@89.110.100.76:2053?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%235
+hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.132:443/?sni=holz6.api3-max.ru#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%233
