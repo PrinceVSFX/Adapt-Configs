@@ -29,3 +29,9 @@ Violet (Quasar) - новый список. Функционал такой же 
 
 📁 Ссылка на White (Albedo)
 `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt`
+
+📁 Ссылка на Violet 1 (Quasar)
+`https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Violet1_list.txt`
+
+📁 Ссылка на Violet 1 (Quasar)
+`https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Violet1_list.txt`
