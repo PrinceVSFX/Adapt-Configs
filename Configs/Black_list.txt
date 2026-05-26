@@ -1,16 +1,15 @@
 # profile-title: ⚫ BLACK | Кеплер — Чёрный список
 # profile-update-interval: 1
-# Date/Time: 2026-05-26 / 14:45 (Moscow)
-# Количество: 11
+# Date/Time: 2026-05-26 / 19:20 (Moscow)
+# Количество: 10
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.156.19.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%231
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@164.38.155.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%232
 trojan://8r%3C%5B9%27l6hAO%238ZQi@185.167.99.132:2053?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%233
-vless://6b435511-6abb-46e3-85fd-709bcc5882ee@132.243.210.91:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=VEdkOMmRaZqzF7weet9G6sN37iPggzuS1GQ5T4sXIAc&security=reality&sid=a1b2c3d4&sni=nl1.nimfomanko.ru&type=tcp#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%234
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%235
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%236
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.191:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%237
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.191:2096?encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%238
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.191:443?encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%239
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.192.224.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%AA%90%20Kepler%20-%20%2310
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.158:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%AA%90%20Kepler%20-%20%2311
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.191:2096?encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%234
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.192.224.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%235
+vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@81.177.215.29:8443?encryption=none&fp=chrome&pbk=NDe_UBPG-k6TqnheVYUxNxlXtmgy975eDsdqK35sJhA&security=reality&serviceName=xyz&sid=6ba85179e30d4fc2&sni=eh.vk.com&type=grpc#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%236
+vmess://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=auto&path=%2Fcctv13.m3u8&security=none&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%237
+vless://6b2bd003-b3fd-4208-83f3-197f9a4d2297@96.47.238.103:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EaaPtT7jhK6wTiZKklE7uHMjlege0ZN6TBqgojca2yg&security=reality&sid=5a626ceb&sni=www.cloudflare.com&type=tcp#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%238
+vless://6343ce34-3357-45cc-9c94-64501f232d06@95.85.229.247:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jY_8Ie_jAzScf94tyz152mXFWeHizA2SjBgJ3KedqHg&security=reality&sid=480161102e58c1b3&sni=teamdocs.su&type=tcp#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%239
+vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@147.45.60.225:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&security=reality&sni=www.google.com&type=tcp#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%2310
