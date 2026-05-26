@@ -34,4 +34,4 @@ Violet (Quasar) - новый список. Функционал такой же 
 `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Violet1_list.txt`
 
 📁 Ссылка на Violet 1 (Quasar)
-`https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Violet1_list.txt`
+`https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Violet2_list.txt `
