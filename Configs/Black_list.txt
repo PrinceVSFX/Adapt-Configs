@@ -1,19 +1,14 @@
 # profile-title: ⚫ BLACK | Кеплер — Чёрный список
 # profile-update-interval: 1
-# Date/Time: 2026-05-25 / 21:10 (Moscow)
-# Количество: 14
+# Date/Time: 2026-05-26 / 11:50 (Moscow)
+# Количество: 9
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@164.38.155.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%231
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.140:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.rocks&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%232
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.156.19.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%231
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@164.38.155.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%232
 trojan://8r%3C%5B9%27l6hAO%238ZQi@185.167.99.132:2053?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%233
-trojan://8r%3C%5B9%27l6hAO%238ZQi@91.108.242.148:2053?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%234
-trojan://8r%3C%5B9%27l6hAO%238ZQi@77.105.139.166:8443?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%235
-trojan://8r%3C%5B9%27l6hAO%238ZQi@195.200.16.192:2053?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%236
-trojan://8r%3C%5B9%27l6hAO%238ZQi@46.149.78.144:8443?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%237
-vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?encryption=none&fp=chrome&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&security=reality&sid=01&sni=google.com&type=grpc#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%238
-hysteria2://hysteria2_fastlane_210pha9tw%3AvpgCasGegr3TmyztgCbfrGSR2wVre8Rt@150.241.79.106:1935/?sni=de2.h.fastlanehosting.ru#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%239
-trojan://8r%3C%5B9%27l6hAO%238ZQi@62.84.98.74:8443?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%2310
-trojan://8r%3C%5B9%27l6hAO%238ZQi@79.137.199.237:8443?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%2311
-vless://8f0c1a18-be77-49de-9aca-8b649efb8710@144.31.238.69:443?encryption=none&fp=chrome&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&security=reality&sid=01&sni=google.com&type=grpc#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%2312
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.38.143.97:8443?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%2313
-vless://8f0c1a18-be77-49de-9aca-8b649efb8710@2.26.0.122:443?encryption=none&fp=chrome&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&security=reality&sid=01&sni=google.com&type=grpc#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%2314
+vless://6b435511-6abb-46e3-85fd-709bcc5882ee@132.243.210.91:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=VEdkOMmRaZqzF7weet9G6sN37iPggzuS1GQ5T4sXIAc&security=reality&sid=a1b2c3d4&sni=nl1.nimfomanko.ru&type=tcp#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%234
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%235
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%236
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.191:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%237
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.191:2096?encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%238
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.191:443?encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%9B%B0%EF%B8%8F%20Kepler%20-%20%239
