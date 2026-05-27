@@ -10,17 +10,11 @@ Configs Информация.
 
 	Слышали про альбедо? Это физическая величина, которая показывает, сколько света отражает поверхность. У свежего снега альбедо близко к 100%. Наш список Albedo — это квинтэссенция белого цвета. Он не просто обходит ограничения, он «отражает» их, проходя сквозь белые списки там, где обычные ключи бессильны.
 
-3. Violet - Фиолетовый список. Названия ключей - Quasar
-
-   Блудный сын списка Black (Kepler). Огромный список ключей разделённых на 5-6 кусков по отдельным txt. В каждом более листе 100-200 ключей. 
-
 Что выбрать для подключения?
 
 Black (Kepler) — используйте как основное, повседневное решение.
 
 White (Albedo) — подключайте, когда Black (Kepler) не справляется или нужен максимальный «белый» обход.
-
-Violet (Quasar) - новый список. Функционал такой же как у Black (Kepler). Удобен большим список. Более 1000~ ключей разделённых на 5-6 списков. 
 
 Сохраняйте оба списка и будьте всегда на связи! ☀️
 
@@ -29,9 +23,3 @@ Violet (Quasar) - новый список. Функционал такой же 
 
 📁 Ссылка на White (Albedo)
 `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt`
-
-📁 Ссылка на Violet 1 (Quasar)
-`https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Violet1_list.txt`
-
-📁 Ссылка на Violet 1 (Quasar)
-`https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Violet2_list.txt `
