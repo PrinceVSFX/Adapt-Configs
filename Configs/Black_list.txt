@@ -1,7 +1,7 @@
 # profile-title: ⚫ BLACK | Кеплер — Чёрный список
 # profile-update-interval: 1
-# Date/Time: 2026-05-27 / 15:50 (Moscow)
-# Количество: 49
+# Date/Time: 2026-05-27 / 17:25 (Moscow)
+# Количество: 53
 
 vless://2ee2b77f-e4cd-4e5d-af22-f9d919eeadd5@130.49.219.126:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=at16.fastlanehosting.ru&type=tcp#🪐%20Kepler%20-%20%231
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.91.53.54:443?encryption=none&fp=chrome&pbk=WMy1KN-awWYkz-3jct8VM4qvCeK3ICvJj3wzam6pAyE&security=reality&sid=b8f9f01b&sni=pimg.mycdn.me&type=tcp#🪐%20Kepler%20-%20%232
@@ -52,3 +52,7 @@ trojan://b49df800-061e-3282-a34c-70c864c83e8a@ascjp.ntt1.ccddn4.icu:65302?allowI
 trojan://b49df800-061e-3282-a34c-70c864c83e8a@ntnt2.x2k8m9q3.top:65302?allowInsecure=1&sni=cdnjp.douyinvod.com#🪐%20Kepler%20-%20%2347
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#🪐%20Kepler%20-%20%2348
 hysteria2://qqqqqq%3AWvu3SPFZQP2qVATBsz5V@fi2.alexanderoff.ru:443/?sni=fi2.alexanderoff.ru#🪐%20Kepler%20-%20%2349
+hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@s545.ccgfw.online:443/?sni=s545.ccgfw.online#🪐%20Kepler%20-%20%2350
+hysteria2://qqqqqq%3AWvu3SPFZQP2qVATBsz5V@fi2.alexanderoff.ru:443/?sni=fi2.alexanderoff.ru#🪐%20Kepler%20-%20%2351
+vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l6.l-itx.info:2053?encryption=none&host=itx-server.digital&path=%2Fws&security=tls&sni=itx-server.digital&type=ws#🪐%20Kepler%20-%20%2352
+vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l6.l-itx.info:2053?encryption=none&host=itx-server.digital&path=%2Fws&security=tls&sni=9275c19dd85e935c.itx-server.digital&type=ws#🪐%20Kepler%20-%20%2353
