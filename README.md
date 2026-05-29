@@ -23,3 +23,9 @@
 <br>
 
 <img src="Materials/png/1.png" alt="ADAPT-CONFIGS" width="1920">
+
+<div align="center">
+
+*© PrinceVSFX — Proud Member of the Free Web Ring — Est. 1999*
+
+</div>
