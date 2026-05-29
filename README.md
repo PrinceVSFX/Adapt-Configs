@@ -18,7 +18,7 @@
 |:-:|:-:|
 | <img src="Materials/png/black.png" width="500"> | <img src="Materials/png/white1.png" width="500"> |
 | **⚫ BLACK / KEPLER** | **⚪ WHITE / ALBEDO** |
-| Базовый канал. Работает всегда.<br><code>https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt</code> | Отражает блокировки. Когда Black не справляется.<br><code>https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt</code> |
+| Базовый канал. Работает всегда. `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt` | Отражает блокировки. Когда Black не справляется. `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt` |
 
 <br>
 
