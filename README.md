@@ -10,15 +10,15 @@
 
 </div>
 
-<p align="center">CONFIGS × ИНФОРМАЦИЯ</p>
-
 <br>
 
-| | |
-|:-:|:-:|
-| <img src="Materials/png/black.png" width="500"> | <img src="Materials/png/white1.png" width="500"> |
-| **⚫ BLACK / KEPLER** | **⚪ WHITE / ALBEDO** |
-| Базовый канал. Работает всегда. `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt` | Отражает блокировки. Когда Black не справляется. `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt` |
+<p align="center">CONFIGS × ИНФОРМАЦИЯ</p>
+
+**⚫ BLACK / KEPLER** — Базовый канал. Работает всегда.  
+<code>`https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt`</code>
+
+**⚪ WHITE / ALBEDO** — Отражает блокировки. Когда Black не справляется.  
+<code>`https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt`</code>
 
 <br>
 
