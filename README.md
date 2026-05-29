@@ -6,18 +6,16 @@
 
 [![Last commit](https://img.shields.io/github/last-commit/PrinceVSFX/Adapt-Configs?style=flat-square&color=00ccff&labelColor=0a0a0a&label=обновлён)](https://github.com/PrinceVSFX/Adapt-Configs/commits)
 
-</div>
-
 <br>
 
-<p align="center">CONFIGS × ИНФОРМАЦИЯ</p>
+**CONFIGS × ИНФОРМАЦИЯ**
+
+</div>
 
 ![**⚫ BLACK / KEPLER**](Materials/png/black5.png) 
 ```
 https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt
 ```
-
-<br>
 
 ![**⚪ WHITE / ALBEDO**](Materials/png/white5.png) 
 ```
