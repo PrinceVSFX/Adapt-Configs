@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=900&size=52&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=100&lines=ADAPT+CONFIGS" alt="ADAPT CONFIGS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=900&size=52&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=ADAPT+CONFIGS" alt="ADAPT CONFIGS"/>
 
 </div>
 
@@ -10,20 +10,16 @@
 
 </div>
 
-CONFIGS × ИНФОРМАЦИЯ. 
+<p align="center">CONFIGS × ИНФОРМАЦИЯ</p>
+
+<br>
 
 | | |
 |:-:|:-:|
-| ![Kepler](Materials/png/black.png) | ![Albedo](Materials/png/white.png) |
-| **BLACK / KEPLER** | **WHITE / ALBEDO** |
-| Базовый канал. Работает всегда. | Отражает блокировки. Когда Black не справляется. |
+| <img src="Materials/png/black.png" width="500"> | <img src="Materials/png/white1.png" width="500"> |
+| **⚫ BLACK / KEPLER** | **⚪ WHITE / ALBEDO** |
+| Базовый канал. Работает всегда.<br><a href="https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt">📄 Black_list.txt (RAW)</a> | Отражает блокировки. Когда Black не справляется.<br><a href="https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt">📄 White_list.txt (RAW)</a> |
 
-КОНФИГ-ФАЙЛЫ
+<br>
 
-| | Файл || Ссылка |
-|---|---|---|---|
-| ⚫ | `Black_list.txt` || [RAW ↗](https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt) `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt` |
-| ⚪ | `White_list.txt` || [RAW ↗](https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt) `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt` |
-
-
-[![@adaptconfigs](Materials/png/1.png)]
+<img src="Materials/png/1.png" alt="ADAPT-CONFIGS" width="1920">
