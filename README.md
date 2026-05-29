@@ -12,17 +12,9 @@
 
 CONFIGS × ИНФОРМАЦИЯ. 
 
-◉ BLACK  •  KEPLER
-  Базовый канал. Работает всегда.
-
-◉ WHITE  •  ALBEDO
-  Отражает блокировки. Когда Black не справляется.
-
-ЧТО ВЫБРАТЬ ДЛЯ ПОДКЛЮЧЕНИЯ?
-
 | | |
 |:-:|:-:|
-| ![Kepler](materials/png/1.png) | ![Albedo](materials/png/2.png) |
+| ![Kepler](Materials/png/black.png) | ![Albedo](Materials/png/2white.png) |
 | **BLACK / KEPLER** | **WHITE / ALBEDO** |
 | Базовый канал. Работает всегда. | Отражает блокировки. Когда Black не справляется. |
 
