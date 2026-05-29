@@ -12,8 +12,6 @@
 
 <br>
 
-<div align="center">
-
 <p align="center">CONFIGS × ИНФОРМАЦИЯ</p>
 
 **⚫ BLACK / KEPLER** — Базовый канал. Работает всегда.  
@@ -21,8 +19,6 @@
 
 **⚪ WHITE / ALBEDO** — Отражает блокировки. Когда Black не справляется.  
 `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt`
-
-</div>
 
 <br>
 
