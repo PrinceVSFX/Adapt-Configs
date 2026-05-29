@@ -25,4 +25,5 @@ CONFIGS × ИНФОРМАЦИЯ.
 | ⚫ | `Black_list.txt` || [RAW ↗](https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt) `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt` |
 | ⚪ | `White_list.txt` || [RAW ↗](https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt) `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt` |
 
-| ![@adaptconfigs](Materials/png/1.png) |
+
+[![@adaptconfigs](Materials/png/1.png)]
