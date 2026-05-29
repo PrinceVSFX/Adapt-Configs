@@ -14,7 +14,7 @@ CONFIGS × ИНФОРМАЦИЯ.
 
 | | |
 |:-:|:-:|
-| ![Kepler](Materials/png/black.png) | ![Albedo](Materials/png/2white.png) |
+| ![Kepler](Materials/png/black.png) | ![Albedo](Materials/png/white.png) |
 | **BLACK / KEPLER** | **WHITE / ALBEDO** |
 | Базовый канал. Работает всегда. | Отражает блокировки. Когда Black не справляется. |
 
@@ -24,3 +24,5 @@ CONFIGS × ИНФОРМАЦИЯ.
 |---|---|---|---|
 | ⚫ | `Black_list.txt` || [RAW ↗](https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt) `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt` |
 | ⚪ | `White_list.txt` || [RAW ↗](https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt) `https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt` |
+
+| ![@adaptconfigs](Materials/png/1.png) |
