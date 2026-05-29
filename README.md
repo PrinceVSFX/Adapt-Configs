@@ -8,7 +8,7 @@
 
 <br>
 
-**CONFIGS × ИНФОРМАЦИЯ**
+**CONFIGS**
 
 </div>
 
