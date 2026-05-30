@@ -1,37 +1,21 @@
 <div align="center">
 
-<video src="https://raw.githubusercontent.com/PRINCEVSFX/adapt-configs/Materials/video/video10.mp4" controls></video>
+<img src="Materials/png/information.png" alt="ADAPT-CONFIGS" width="1920">
 
-**ADAPT CONFIGS — INFORMATION**
+</div>
 
-**Curated Xray subscription repository**  
-Обход блокировок · DPI bypass · Transport camouflage · Xray инфраструктура
+<table width="1920" style="background: #0d1117; border: 1px solid #30363d; border-radius: 16px;">
+  <tr>
+    <td align="center" style="padding: 32px 20px;">
+      <strong style="font-size: 24px; color: #ffffff;">Curated Xray subscription repository</strong><br>
+      <span style="font-size: 16px; color: #8b949e;">Обход блокировок · DPI bypass · Transport camouflage · Xray инфраструктура</span>
+    </td>
+  </tr>
+</table> 
 
 </br>
 
-## Основные принципы
-
-| Принцип | Описание |
-|--------|----------|
-| **Стабильность** | Работа без сбоев |
-| **Bypass** | Обход любых ограничений |
-| **Минимализм** | Только нужное |
-| **Clean routing** | Предсказуемые маршруты |
-
----
-
-## 📊 Сравнение профилей
-
-| Характеристика | ⚪ WHITE / ALBEDO | ⚫ BLACK / KEPLER |
-|---------------|------------------|-------------------|
-| **Назначение** | Браузер, YouTube, Telegram, Discord, игры | Жёсткий DPI, provider filtering, нестабильные сети |
-| **База** | Reality + Vision | xHTTP + REALITY |
-| **Стабильность** | 5/5 | 4/5 |
-| **Latency** | Низкий | Средний |
-| **Overhead** | Низкий | Выше |
-| **Camouflage** | Обычная | Усиленная (packet masking) |
-| **Multiplex** | ❌ | ✅ XMUX |
-
+| Характеристика | ⚪ WHITE / ALBEDO | ⚫ 
 ## Стек технологий
 
 **Security Layer**
