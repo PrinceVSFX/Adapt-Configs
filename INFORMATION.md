@@ -1,5 +1,3 @@
-<img src="Materials/png/information.png" alt="ADAPT-CONFIGS" width="1920">
-
 ADAPT CONFIGS — INFORMATION
 
 Curated Xray subscription repository,
