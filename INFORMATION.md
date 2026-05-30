@@ -1,4 +1,8 @@
-# ADAPT CONFIGS — INFORMATION
+<div align="center">
+
+<video src="https://raw.githubusercontent.com/PRINCEVSFX/adapt-configs/Materials/video/video10.mp4" controls></video>
+
+**ADAPT CONFIGS — INFORMATION**
 
 **Curated Xray subscription repository**  
 Обход блокировок · DPI bypass · Transport camouflage · Xray инфраструктура
