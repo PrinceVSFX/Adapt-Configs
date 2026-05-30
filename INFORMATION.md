@@ -272,6 +272,15 @@ Trojan подходит для:
 
 ***Для большинства сценариев рекомендуется **VLESS + REALITY**. Если требуется максимальная производительность и сеть не ограничивает UDP-трафик — рассмотрите **Hysteria2**.***
 
+<div align="center"> 
+
+<img src="https://img.shields.io/badge/LICENSE-MIT-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DISCLAIMER-AS_IS-lightgrey?style=for-the-badge" />
+
+</div>
+
+</br>
+
 ### Теги репозитория
 
 <div align="center">
