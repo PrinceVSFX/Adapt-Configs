@@ -272,16 +272,9 @@ Trojan подходит для:
 
 ***Для большинства сценариев рекомендуется **VLESS + REALITY**. Если требуется максимальная производительность и сеть не ограничивает UDP-трафик — рассмотрите **Hysteria2**.***
 
-<div align="center"> 
-
-<img src="https://img.shields.io/badge/LICENSE-MIT-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DISCLAIMER-AS_IS-lightgrey?style=for-the-badge" />
-
-</div>
-
 </br>
 
-### Теги репозитория
+#### Теги репозитория
 
 <div align="center">
 
@@ -289,9 +282,26 @@ Trojan подходит для:
 <img src="https://img.shields.io/badge/REALITY-16A34A?style=flat-square" />
 <img src="https://img.shields.io/badge/VLESS-2563EB?style=flat-square" />
 <img src="https://img.shields.io/badge/XHTTP-DC2626?style=flat-square" />
+<img src="https://img.shields.io/badge/SOCKS5-525252?style=flat-square" />
+<img src="https://img.shields.io/badge/TROJAN-B91C1C?style=flat-square" />
+<img src="https://img.shields.io/badge/HYSTERIA2-0284C7?style=flat-square" />
 <img src="https://img.shields.io/badge/DPI_BYPASS-F97316?style=flat-square" />
 <img src="https://img.shields.io/badge/CAMOUFLAGE-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/SING_BOX-0891B2?style=flat-square" />
 <img src="https://img.shields.io/badge/FREE_INTERNET-16A34A?style=flat-square" />
 
-</div> 
+</div>
+
+</br>
+
+<div align="center">
+
+<a href="https://github.com/PrinceVSFX/Adapt-Configs/blob/main/LICENSE">
+  <img src="https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/PrinceVSFX/Adapt-Configs/blob/main/DISCLAIMER">
+  <img src="https://img.shields.io/badge/DISCLAIMER-READ-orange?style=for-the-badge" />
+</a>
+
+</div>
