@@ -1,176 +1,123 @@
-ADAPT CONFIGS — INFORMATION
+# ADAPT CONFIGS — INFORMATION
 
-Curated Xray subscription repository,
-созданный для:
-- обхода блокировок
-- DPI bypass
-- transport camouflage
-- современной Xray инфраструктуры
+**Curated Xray subscription repository**  
+Обход блокировок · DPI bypass · Transport camouflage · Xray инфраструктура
 
-Основной фокус:
-- стабильность
-- bypass
-- минимализм
-- clean routing
+</br>
 
-WHITE / ALBEDO
+## Основные принципы
 
-Стабильный профиль.
+| Принцип | Описание |
+|--------|----------|
+| **Стабильность** | Работа без сбоев |
+| **Bypass** | Обход любых ограничений |
+| **Минимализм** | Только нужное |
+| **Clean routing** | Предсказуемые маршруты |
 
-Создан для:
-- браузера
-- YouTube
-- Telegram
-- Discord
-- игр
-- повседневного использования
+---
 
-BASE:
-Reality + Vision
+## 📊 Сравнение профилей
 
-FOCUS:
-- стабильность
-- чистые маршруты
-- низкий overhead
-- нормальный latency
+| Характеристика | ⚪ WHITE / ALBEDO | ⚫ BLACK / KEPLER |
+|---------------|------------------|-------------------|
+| **Назначение** | Браузер, YouTube, Telegram, Discord, игры | Жёсткий DPI, provider filtering, нестабильные сети |
+| **База** | Reality + Vision | xHTTP + REALITY |
+| **Стабильность** | 5/5 | 4/5 |
+| **Latency** | Низкий | Средний |
+| **Overhead** | Низкий | Выше |
+| **Camouflage** | Обычная | Усиленная (packet masking) |
+| **Multiplex** | ❌ | ✅ XMUX |
 
-BLACK / KEPLER
+## Стек технологий
 
-Агрессивный профиль.
+**Security Layer**
+`VLESS` · `REALITY` · `XTLS Vision` · `TLS Camouflage`
 
-Создан для:
-- жёсткого DPI
-- provider filtering
-- нестабильных сетей
-- advanced bypass
+**Transport Layer**
+`TCP` · `xHTTP` · `gRPC` · `WebSocket`
 
-BASE:
-xHTTP + REALITY
+**Enhancement Layer**
+`DPI Bypass` · `Packet-Up` · `XMUX` · `Padding`
 
-FOCUS:
-- camouflage
-- packet masking
-- multiplex
-- transport abuse
-- bypass stability
+## Сравнение транспортов
 
-STACK
+| Транспорт | Лучше всего для | Особенность |
+|-----------|----------------|-------------|
+| **TCP** | Стабильность | Классика |
+| **xHTTP** | Advanced bypass | Современный, агрессивный |
+| **gRPC** | Long sessions, multiplexing | Стабильный throughput |
+| **WS** | CDN-совместимость | WebSocket |
 
-- VLESS
-- REALITY
-- XTLS Vision
-- xHTTP
-- gRPC
-- WebSocket
-- DPI Bypass
-- Packet-Up
-- XMUX
-- TLS Camouflage
+</br>
 
-TRANSPORTS
+## Маскировка (Camouflage)
 
-TCP
-Классический стабильный transport.
+Используемые домены для имитации обычного HTTPS/CDN-трафика:
 
-xHTTP
-Современный transport
-для advanced bypass.
+| Домен | Тип |
+|-------|-----|
+| Yandex | Поисковик |
+| mwscdn | CDN |
+| RBC | СМИ |
+| Beget | Хостинг |
+| storage.yandex | Облако |
+| CDN endpoints | Сеть доставки |
 
-gRPC
-Transport для:
-- long sessions
-- multiplexing
-- стабильного throughput
+**Результат:** трафик выглядит как обычный HTTPS/CDN.
 
-WS
-CDN-compatible WebSocket transport.
+## Архитектура REALITY
 
-REALITY
+**Цепочка проксирования**
 
-Основной security layer проекта.
+`Клиент` → `VLESS + REALITY` → `Фейковый TLS` → `Целевой сайт`
 
-Features:
-- fake TLS
-- browser fingerprinting
-- real SNI masking
-- HTTPS camouflage
-- DPI resistance
+**Защитные механизмы**
 
-CAMOUFLAGE
+- Browser fingerprinting (браузерное окружение)
+- Реальный SNI (yandex.ru, RBC, CDN endpoints)
+- Полная неотличимость от HTTPS
 
-Для маскировки используются:
-- Yandex
-- mwscdn
-- RBC
-- Beget
-- storage.yandex
-- CDN endpoints
+**Результат**
 
-Трафик выглядит как:
-обычный HTTPS/CDN traffic.
+DPI не видит разницы ✅
 
-FEATURES
+</br>
 
-- XTLS Vision
-- Reality
-- xHTTP
-- Packet-Up
-- XMUX
-- Padding
-- Fake TLS
-- SNI Camouflage
-- Chrome Fingerprint
+## Требования совместимости
 
-CLIENTS
+| Компонент | Необходимость |
+|-----------|--------------|
+| latest sing-box | ✅ Обязательно |
+| latest xray-core | ✅ Обязательно |
+| Reality support | ✅ Обязательно |
+| xHTTP support | ✅ (для BLACK) |
+| modern transports | ✅ |
 
-Recommended:
-- Nekoray
-- v2rayN
-- sing-box
-- Streisand
-- Hiddify
-- Exclave
-- Karing
+### ⚠️ Предупреждение
+> Старые клиенты могут не поддерживать Reality, xHTTP, XTLS Vision.
 
-CLIENT NOTES
+## 📈 Диаграмма выбора профиля
+                НУЖЕН ЛИ ВАМ?
+                      │
+        ┌─────────────┴─────────────┐
+        ↓                           ↓
+  Стабильность                Жёсткий обход
+  и низкий ping               (провайдер блокирует)
+        │                           │
+        ↓                           ↓
+  ⚪ WHITE                      ⚫ BLACK
+(Reality+Vision)            (xHTTP+REALITY)
+        │                           │
+        ↓                           ↓
+YouTube, Discord,           Нестабильные сети,
+Telegram, игры               агрессивный DPI
 
-NEKORAY
-Лучший desktop experience.
+---
 
-KARING
-Современный sing-box mobile client.
+## 🏷️ Теги репозитория
 
-EXCLAVE
-Minimal mobile setup.
+`#Xray` `#Reality` `#VLESS` `#xHTTP` `#DPIBypass` `#Camouflage` `#SingBox` `#FreeInternet`
 
-V2RAYN
-Классический Windows client.
+---
 
-STREISAND
-Clean iOS experience.
-
-COMPATIBILITY
-
-Требуется:
-- latest sing-box
-- latest xray-core
-- Reality support
-- xHTTP support
-- modern transports
-
-SUBSCRIPTIONS
-
-WHITE / ALBEDO
-Configs/White_list.txt
-
-BLACK / KEPLER
-Configs/Black_list.txt
-
-NOTE
-
-Старые клиенты могут не поддерживать:
-- Reality
-- xHTTP
-- XTLS Vision
-
-PRINCEVSFX / FREE WEB RING
+> 👑 **PRINCEVSFX / FREE WEB RING**
