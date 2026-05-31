@@ -17,19 +17,26 @@
 
 </br>
 
-**CONFIGS**
+<div align="center">
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:00FF88,100:00BFFF&text=CONFIGS&fontSize=30&fontColor=ffffff"/>
 
 </div>
 
+<div align="center">
+
 ![**⚫ BLACK / KEPLER**](Materials/png/black5.png) 
+
 ```
 https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt
-```
+```  
 
 ![**⚪ WHITE / ALBEDO**](Materials/png/white5.png) 
 ```
 https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt
 ```
+
+</div>
 
 <br>
 
