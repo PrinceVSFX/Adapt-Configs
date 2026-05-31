@@ -57,6 +57,16 @@ https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_li
 
 </div>
 
+</br>
+
+<p align="center">
+  <small>✦ YOU ARE VISITOR NUMBER ✦</small>
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@PrinceVSFX-Adapt-Configs?theme=moebooru" />
+</p>
+
 <div align="center">
 
 *© PrinceVSFX — Proud Member of the Free Web Ring — Est. 1999*
