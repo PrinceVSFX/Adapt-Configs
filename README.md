@@ -5,6 +5,7 @@
 </br>
 
 [![Last commit](https://img.shields.io/github/last-commit/PrinceVSFX/Adapt-Configs?style=flat-square&color=00ccff&labelColor=0a0a0a&label=обновлён)](https://github.com/PrinceVSFX/Adapt-Configs/tree/main/Configs)
+[![Join Telegram](https://img.shields.io/badge/Join-Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/adaptconfigs) 
 
 <a href="https://github.com/PrinceVSFX/Adapt-Configs/blob/main/LICENSE">
   <img src="https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge" />
