@@ -12,9 +12,9 @@
 <img src="https://img.shields.io/badge/XTLS_VISION-7A3CFF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/XHTTP-FF8800?style=for-the-badge" />
 
-</div>
+*YOU ARE VISITOR NUMBER*
 
-</br>
+![Counter](https://count.getloli.com/get/@PrinceVSFX-Adapt-Configs?theme=moebooru)
 
 ### Навигация
 
@@ -32,6 +32,9 @@
 | [License](https://github.com/PrinceVSFX/Adapt-Configs/blob/main/LICENSE)       | Лицензия проекта                |
 | [Disclaimer](https://github.com/PrinceVSFX/Adapt-Configs/blob/main/DISCLAIMER) | Отказ от ответственности        |
 
+</div>
+
+</br>
 
 ### Принципы Конфигов
 
@@ -102,8 +105,6 @@ PACKET MASKING: ВКЛЮЧЁН
 СТАБИЛЬНОСТЬ: ВЫСОКАЯ
 ```
 
-</br>
-
 ### Отличия
 
 - **VLESS + REALITY** — современное решение для обхода DPI, использующее VLESS и технологию REALITY для имитации реального HTTPS-трафика. Не требует собственного TLS-сертификата и обеспечивает высокий уровень маскировки.
@@ -113,6 +114,8 @@ PACKET MASKING: ВКЛЮЧЁН
 - **Hysteria2** — высокопроизводительный протокол на базе QUIC (UDP), оптимизированный для нестабильных сетей, высокой задержки и потери пакетов. Маскируется под HTTP/3-трафик.
 
 - **Trojan** — прокси-протокол, использующий стандартный TLS для маскировки под обычный HTTPS-трафик. Обычно требует собственный домен и TLS-сертификат.
+
+</br>
 
 ### Vless + Reality
 
