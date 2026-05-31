@@ -12,10 +12,6 @@
 <img src="https://img.shields.io/badge/XTLS_VISION-7A3CFF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/XHTTP-FF8800?style=for-the-badge" />
 
-*YOU ARE VISITOR NUMBER*
-
-![Counter](https://count.getloli.com/get/@PrinceVSFX-Adapt-Configs?theme=moebooru)
-
 ### Навигация
 
 | Раздел                                                                            | Описание                        |
