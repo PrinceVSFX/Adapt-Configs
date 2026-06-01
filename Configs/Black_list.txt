@@ -1,7 +1,7 @@
 # profile-title: ⚫ BLACK | Кеплер — Чёрный список
 # profile-update-interval: 1
-# Date/Time: 2026-06-01 / 12:00 (Moscow)
-# Количество: 82
+# Date/Time: 2026-06-01 / 20:40 (Moscow)
+# Количество: 125
 
 vless://57f8c33e-61ef-0002-939d-55c92b1a5b4e@bl4ckm45k.ru:443?encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%224-8%22%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22300-600%22%2C%22hMaxReusableSecs%22%3A%22900-1800%22%7D%2C%22headers%22%3A%7B%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%22262144-524288%22%2C%22scMinPostsIntervalMs%22%3A%2280-150%22%2C%22scStreamUpServerSecs%22%3A%2210-30%22%7D&fp=chrome&host=takegpt.ru&mode=packet-up&path=%2Fapi%2Fv3%2Flv&pbk=7qbaee7pyHPPljm1pM3qmlNzcksW92UO1mGcBvA8xk8&security=reality&sid=79175aa57b464900&sni=takegpt.ru&type=xhttp#%F0%9F%87%AB%F0%9F%87%AE%20Kepler%20-%20%231
 vless://57f8c33e-61ef-0001-939d-55c92b1a5b4e@bl4ckm45k.ru:443?encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%224-8%22%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22300-600%22%2C%22hMaxReusableSecs%22%3A%22900-1800%22%7D%2C%22headers%22%3A%7B%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%22262144-524288%22%2C%22scMinPostsIntervalMs%22%3A%2280-150%22%2C%22scStreamUpServerSecs%22%3A%2210-30%22%7D&fp=chrome&host=takegpt.ru&mode=packet-up&path=%2Fapi%2Fv3%2Flv&pbk=7qbaee7pyHPPljm1pM3qmlNzcksW92UO1mGcBvA8xk8&security=reality&sid=623a3ccfa19145d9&sni=takegpt.ru&type=xhttp#%F0%9F%87%B1%F0%9F%87%BB%20Kepler%20-%20%232
@@ -85,3 +85,46 @@ vless://6924d121-8066-4891-b574-24e9fbdbe627@md-alex-01.com:8443?encryption=none
 vless://6924d121-8066-4891-b574-24e9fbdbe627@bypass.md-alex-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&security=reality&sid=51495959c262c442&sni=rbc.ru&type=tcp#%F0%9F%87%B2%F0%9F%87%A9%20Kepler%20-%20%2380
 vless://bccbe8b3-4975-49ed-be05-dfb136ddcc96@shimorra.site:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&security=reality&sid=f1af4b63b7e47b8a&sni=rbc.ru&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Kepler%20-%20%2381
 vless://bccbe8b3-4975-49ed-be05-dfb136ddcc96@bypass.shimorra.site:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&security=reality&sid=f1af4b63b7e47b8a&sni=rbc.ru&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Kepler%20-%20%2382
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@at-lb-rtt.netzrun.at:5222#%F0%9F%87%A6%F0%9F%87%B9%20Kepler%20-%20%2383
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-37-at.netzrun.at:5222#%F0%9F%87%A6%F0%9F%87%B9%20Kepler%20-%20%2384
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@be-lb-rtt.netzrun.at:5222#%F0%9F%87%A7%F0%9F%87%AA%20Kepler%20-%20%2385
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-107-bg.netzrun.at:5222#%F0%9F%87%A7%F0%9F%87%AC%20Kepler%20-%20%2386
+vless://39a07571-7a7a-4c02-a352-a0c1905d29bf@edge-bg-sof.cdn.sx:2083?encryption=none&security=tls&type=tcp#%F0%9F%87%A7%F0%9F%87%AC%20Kepler%20-%20%2387
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-69-cz.netzrun.at:5222#%F0%9F%87%A8%F0%9F%87%BF%20Kepler%20-%20%2388
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-114-ee.netzrun.at:5222#%F0%9F%87%AA%F0%9F%87%AA%20Kepler%20-%20%2389
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-73-fr.netzrun.at:5222#%F0%9F%87%AB%F0%9F%87%B7%20Kepler%20-%20%2390
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-112-fr.netzrun.at:5222#%F0%9F%87%AB%F0%9F%87%B7%20Kepler%20-%20%2391
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@fi-lb-rtt.netzrun.at:5222#%F0%9F%87%AB%F0%9F%87%AE%20Kepler%20-%20%2392
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@de.netzrun.at:5222#%F0%9F%87%A9%F0%9F%87%AA%20Kepler%20-%20%2393
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-38-de.netzrun.at:5222#%F0%9F%87%A9%F0%9F%87%AA%20Kepler%20-%20%2394
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-43-de.netzrun.at:5222#%F0%9F%87%A9%F0%9F%87%AA%20Kepler%20-%20%2395
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@de-t3.netzrun.at:5222#%F0%9F%87%A9%F0%9F%87%AA%20Kepler%20-%20%2396
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-74-ge.netzrun.at:5222#%F0%9F%87%AC%F0%9F%87%AA%20Kepler%20-%20%2397
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-105-hu.netzrun.at:5222#%F0%9F%87%AD%F0%9F%87%BA%20Kepler%20-%20%2398
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-81-kz.netzrun.at:5222#%F0%9F%87%B0%F0%9F%87%BF%20Kepler%20-%20%2399
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-129-kz.netzrun.at:5222#%F0%9F%87%B0%F0%9F%87%BF%20Kepler%20-%20%23100
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-6-lt.netzrun.at:5222#%F0%9F%87%B1%F0%9F%87%B9%20Kepler%20-%20%23101
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-nl-01.netzrun.at:5222#%F0%9F%87%B3%F0%9F%87%B1%20Kepler%20-%20%23102
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-nl-00.netzrun.at:5222#%F0%9F%87%B3%F0%9F%87%B1%20Kepler%20-%20%23103
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-16-no.netzrun.at:5222#%F0%9F%87%B3%F0%9F%87%B4%20Kepler%20-%20%23104
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-128-pl.netzrun.at:5222#%F0%9F%87%B5%F0%9F%87%B1%20Kepler%20-%20%23105
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-106-es.netzrun.at:5222#%F0%9F%87%AA%F0%9F%87%B8%20Kepler%20-%20%23106
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@se.netzrun.at:5222#%F0%9F%87%B8%F0%9F%87%AA%20Kepler%20-%20%23107
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@se-01.netzrun.at:5222#%F0%9F%87%B8%F0%9F%87%AA%20Kepler%20-%20%23108
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-67-se.netzrun.at:5222#%F0%9F%87%B8%F0%9F%87%AA%20Kepler%20-%20%23109
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-109-se.netzrun.at:5222#%F0%9F%87%B8%F0%9F%87%AA%20Kepler%20-%20%23110
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-135-ch.netzrun.at:5222#%F0%9F%87%A8%F0%9F%87%AD%20Kepler%20-%20%23111
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-133-tr.netzrun.at:5222#%F0%9F%87%B9%F0%9F%87%B7%20Kepler%20-%20%23112
+vless://39a07571-7a7a-4c02-a352-a0c1905d29bf@edge-tr-ist.cdn.sx:2083?encryption=none&security=tls&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Kepler%20-%20%23113
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-44-uk.netzrun.at:5222#%F0%9F%87%AC%F0%9F%87%A7%20Kepler%20-%20%23114
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-46-uk.netzrun.at:5222#%F0%9F%87%AC%F0%9F%87%A7%20Kepler%20-%20%23115
+vless://39a07571-7a7a-0003-a352-a0c1905d29bf@br-83-ru.netzrun.at:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=br-83-ru.netzrun.at&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Kepler%20-%20%23116
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-42-jp.netzrun.at:5222#%F0%9F%87%AF%F0%9F%87%B5%20Kepler%20-%20%23117
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-75-sg.netzrun.at:5222#%F0%9F%87%B8%F0%9F%87%AC%20Kepler%20-%20%23118
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-110-hk.netzrun.at:5222#%F0%9F%87%AD%F0%9F%87%B0%20Kepler%20-%20%23119
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-115-id.netzrun.at:5222#%F0%9F%87%AE%F0%9F%87%A9%20Kepler%20-%20%23120
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-99-us.netzrun.at:5222#%F0%9F%87%BA%F0%9F%87%B8%20Kepler%20-%20%23121
+vless://39a07571-7a7a-0001-a352-a0c1905d29bf@br-83-ru.netzrun.at:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=br-83-ru.netzrun.at&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Kepler%20-%20%23122
+vless://39a07571-7a7a-0002-a352-a0c1905d29bf@br-83-ru.netzrun.at:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=br-83-ru.netzrun.at&type=tcp#%F0%9F%87%A7%F0%9F%87%AC%20Kepler%20-%20%23123
+trojan://DZsGoC8H13DP4z-hzeNtcbbZX2SNZ1tX@dc-113-al.netzrun.at:5222#%F0%9F%87%A6%F0%9F%87%B1%20Kepler%20-%20%23124
+vless://39a07571-7a7a-0005-a352-a0c1905d29bf@br-83-ru.netzrun.at:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=br-83-ru.netzrun.at&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20Kepler%20-%20%23125
