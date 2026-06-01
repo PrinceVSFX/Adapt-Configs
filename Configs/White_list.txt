@@ -1,6 +1,6 @@
 # profile-title: ⚪ WHITE | Albedo — Белый список
 # profile-update-interval: 1
-# Date/Time: 2026-06-02 / 91:00 (Moscow)
+# Date/Time: 2026-06-02 / 01:00 (Moscow)
 # Количество: 782
 
 vless://ad7b2fde-d820-4dfe-be66-09fde32ddf61@fr-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=364994a6f61fc955&sni=rbc.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Albedo%20-%20%231
