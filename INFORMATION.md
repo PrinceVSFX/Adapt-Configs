@@ -12,22 +12,6 @@
 <img src="https://img.shields.io/badge/XTLS_VISION-7A3CFF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/XHTTP-FF8800?style=for-the-badge" />
 
-### Навигация
-
-| Раздел                                                                            | Описание                        |
-| --------------------------------------------------------------------------------- | ------------------------------- |
-| [Принципы Конфигов](#принципы-конфигов)                                        | Основные принципы проекта       |
-| [Характеристики](#характеристики)                                              | BLACK / KEPLER и WHITE / ALBEDO |
-| [Отличия](#отличия)                                                            | Сравнение технологий            |
-| [VLESS + Reality](#vless--reality)                                             | Современный анти-DPI стек       |
-| [SOCKS5](#socks5)                                                               | Классический прокси             |
-| [Hysteria2](#hysteria2)                                                        | QUIC / HTTP3 решение            |
-| [Trojan](#trojan)                                                              | HTTPS-маскировка                |
-| [Что выбрать?](#что-выбрать)                                                   | Рекомендации по выбору          |
-| [Теги репозитория](#теги-репозитория)                                         | Ключевые технологии             |
-| [License](https://github.com/PrinceVSFX/Adapt-Configs/blob/main/LICENSE)       | Лицензия проекта                |
-| [Disclaimer](https://github.com/PrinceVSFX/Adapt-Configs/blob/main/DISCLAIMER) | Отказ от ответственности        |
-
 </div>
 
 </br>
@@ -53,6 +37,12 @@
 
 ### Характеристики
 
+<div align="center"> 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=180&section=header"/>
+
+</div> 
+
 **BLACK / KEPLER**
 
 ```yaml
@@ -65,7 +55,7 @@
 ПРЕДНАЗНАЧЕНИЕ:
   - Жёсткий DPI
   - Фильтрация провайдера
-  - Ограниченные сети
+  - ые сети
   - Сложные условия подключения
 
 ЗАДЕРЖКА: СРЕДНЯЯ
@@ -76,7 +66,13 @@ XMUX: ВКЛЮЧЁН
 PACKET MASKING: ВКЛЮЧЁН
 
 СТАБИЛЬНОСТЬ: ВЫСОКАЯ
-``` 
+```
+
+<div align="center"> 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=100&section=footer"/> 
+
+</div> 
 
 **WHITE / ALBEDO**
 
