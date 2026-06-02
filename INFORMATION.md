@@ -2,6 +2,10 @@
 
 <img src="Materials/png/information.png" alt="ADAPT-CONFIGS" width="1920">
 
+</div>
+
+<div align="center">
+
 </br>
 
 <img src="https://img.shields.io/badge/VLESS-0066FF?style=for-the-badge" />
@@ -39,11 +43,9 @@
 
 <div align="center"> 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=180&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=180&section=header&text=BLACK%20%2F%20KEPLER&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
 
-</div> 
-
-**BLACK / KEPLER**
+</div>
 
 ```yaml
 ПРОФИЛЬ: Агрессивный
@@ -72,9 +74,15 @@ PACKET MASKING: ВКЛЮЧЁН
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=100&section=footer"/> 
 
-</div> 
+</div>
 
-**WHITE / ALBEDO**
+</br>
+
+<div align="center"> 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e0e0e0&height=180&section=header&text=WHITE%20%2F%20ALBEDO&fontSize=40&fontColor=000000&fontAlignY=35&animation=fadeIn"/>
+
+</div>
 
 ```yaml
 ПРОФИЛЬ: Стабильный
@@ -96,6 +104,12 @@ PACKET MASKING: ВКЛЮЧЁН
 
 СТАБИЛЬНОСТЬ: ВЫСОКАЯ
 ```
+
+<div align="center"> 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffffff&height=100&section=footer"/> 
+
+</div>
 
 ### Отличия
 
