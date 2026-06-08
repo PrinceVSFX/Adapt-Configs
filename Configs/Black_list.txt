@@ -1,7 +1,7 @@
 # profile-title: ⚫ BLACK | Kepler — Чёрный список
 # profile-update-interval: 1
-# Date/Time: 2026-06-08 / 14:00 (Moscow)
-# Количество: 73
+# Date/Time: 2026-06-08 / 19:45 (Moscow)
+# Количество: 91
 
 vless://4d606920-62d7-4d28-a5c4-f8a70fe56aaa@uk-gthost-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#🏴 Kepler - #1
 vless://4d606920-62d7-4d28-a5c4-f8a70fe56aaa@bypass.uk-gthost-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#🏴 Kepler - #2
