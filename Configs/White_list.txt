@@ -1,7 +1,7 @@
 # profile-title: ⚪ WHITE | Albedo — Белый список
 # profile-update-interval: 1
-# Date/Time: 2026-06-07 / 02:20 (Moscow)
-# Количество: 40
+# Date/Time: 2026-06-08 / 12:15 (Moscow)
+# Количество: 28
 
 vless://ad7b2fde-d820-4dfe-be66-09fde32ddf61@fr-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=364994a6f61fc955&sni=rbc.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Albedo%20-%20%231
 vless://1adc8f61-3fff-48cc-9433-4a4889fd742e@bypass.ch-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=d515d6cfdfe60b02&sni=rbc.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Albedo%20-%20%232
@@ -31,15 +31,3 @@ vless://325bcc72-b5c2-4338-bf2d-4766de7018bb@velsanto.online:8443?encryption=non
 vless://32bf7207-11dd-453a-8b72-94576ae3e9b2@bypass.lt-cherry-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=reality&sid=0d960275b7b0f9af&sni=storage.yandex.net&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Albedo%20-%20%2326
 vless://916dbdb5-80cd-44e8-baa9-81eee695a437@51.250.47.192:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=5be97fb85093a3a9&sni=max.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Albedo%20-%20%2327
 vless://325bcc72-b5c2-4338-bf2d-4766de7018bb@velsanto.online:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#%F0%9F%87%AD%F0%9F%87%BA%20Albedo%20-%20%2328 
-vless://94ae5ad5-8f3e-41bf-9546-99a1543d3cd1@84.201.174.25:443?mode=gun&security=reality&encryption=none&pbk=dF9CDDUffnzSv4opnPvxNtV7YxGYLWE79YltK98uzgE&fp=chrome&type=grpc&sni=jump.x5.ru#%F0%9F%87%A8%F0%9F%87%BF%20Albedo%20-%20%2329
-vless://91427003-38cb-473e-95f2-a4b500c91f7b@51.250.43.93:443?security=reality&encryption=none&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#%F0%9F%87%AA%F0%9F%87%AA%20Albedo%20-%20%2330
-vless://c65ca957-329a-0001-8e62-eaaa48468833@b02.connectv.net:443?security=reality&encryption=none&pbk=0RegtdcQHk9Fg95kgn5jmRglN6N3sdk3ZhrFXvmbrgk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=b02.connectv.net#%F0%9F%87%B3%F0%9F%87%B1%20Albedo%20-%20%2331
-vless://c65ca957-329a-0001-8e62-eaaa48468833@b02.connectv.net:443?security=reality&encryption=none&pbk=0RegtdcQHk9Fg95kgn5jmRglN6N3sdk3ZhrFXvmbrgk&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=b02.connectv.net#%F0%9F%87%B3%F0%9F%87%B1%20Albedo%20-%20%2332
-vless://6c6bb37a-3315-45bc-88d6-0fbba043c07f@87.239.108.241:443?security=reality&encryption=none&pbk=EZ9ZUwrabGCJfowEvD4fI0ANMsxYh7hchEAbsnOTl0s&headerType=none&fp=chrome&spx=%2FfPFepC78nvVF69L&type=tcp&sni=api.cockroachservice.ru&sid=803367e3aceaa5e1#%F0%9F%87%B7%F0%9F%87%BA%20Albedo%20-%20%2333
-vless://6c6bb37a-3315-45bc-88d6-0fbba043c07f@87.239.108.241:443?security=reality&encryption=none&pbk=EZ9ZUwrabGCJfowEvD4fI0ANMsxYh7hchEAbsnOTl0s&headerType=none&fp=random&spx=%2FfPFepC78nvVF69L&type=tcp&sni=api.cockroachservice.ru&sid=803367e3aceaa5e1#%F0%9F%87%B7%F0%9F%87%BA%20Albedo%20-%20%2334
-vless://6c6bb37a-3315-45bc-88d6-0fbba043c07f@cockroachservice.ru:443?security=reality&encryption=none&pbk=EZ9ZUwrabGCJfowEvD4fI0ANMsxYh7hchEAbsnOTl0s&headerType=none&fp=random&spx=%2FfPFepC78nvVF69L&type=tcp&sni=api.cockroachservice.ru&sid=803367e3aceaa5e1#%F0%9F%87%B7%F0%9F%87%BA%20Albedo%20-%20%2335
-vless://834184d0-b7f6-4e2c-9e12-a53a1d2af807@78.159.240.174:443?mode=gun&security=tls&encryption=none&insecure=0&fp=edge&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&allowInsecure=0&sni=95.85.246.16.speed-storage.ru#%F0%9F%8C%90%20Albedo%20-%20%2336
-vless://834184d0-b7f6-4e2c-9e12-a53a1d2af807@158.160.196.187:443?mode=gun&security=tls&encryption=none&insecure=0&fp=edge&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&allowInsecure=0&sni=95.85.246.16.speed-storage.ru#%F0%9F%8C%90%20Albedo%20-%20%2337
-vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:7443?mode=gun&security=reality&encryption=none&pbk=_AXs-QnufIq918tbb2pwM3MDbe7kQ6i0cIHDMLwPmGs&fp=chrome&type=grpc&serviceName=grpc&sni=loadtest.dev.urent.ru&sid=3210e0eee6605048#%F0%9F%8C%90%20Albedo%20-%20%2338
-vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:7443?mode=gun&security=reality&encryption=none&pbk=_AXs-QnufIq918tbb2pwM3MDbe7kQ6i0cIHDMLwPmGs&fp=qq&type=grpc&serviceName=grpc&sni=loadtest.dev.urent.ru&sid=3210e0eee6605048#%F0%9F%8C%90%20Albedo%20-%20%2339
-vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:9443?security=reality&alpn=http%252F1.1&encryption=none&pbk=aVu6XB9_RKR1xLtusyQ1_YOWCs4Ofi9GEJd6oERNH2Q&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=loadtest.dev.urent.ru&sid=689def22fcb54e86#%F0%9F%8C%90%20Albedo%20-%20%2340
