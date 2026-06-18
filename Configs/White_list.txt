@@ -12,3 +12,7 @@ vless://68001b7e-e48a-5a02-8243-c1a2a37b66b7@146.19.254.109:443?encryption=none&
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Albedo - #8
 hysteria2://be7441a663ef465566e3a6e441a16357@tw-vds.t1n2.com:7443/?sni=tw-vds.t1n2.com#🇷🇺 Albedo - #9
 vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@37.139.34.63:23356?encryption=none&fp=chrome&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&security=reality&serviceName=api&sid=483d116ad48a4091&sni=apple.com&type=grpc#🇷🇺 Albedo - #10
+vless://52b71b75-4b77-4cec-990b-046ec1938e1f@45.92.177.186:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-sij6MifOyoPdIBR9kjB3ww2ClWk7IhITppFxUEdBzI&security=reality&sid=9e0ba98da61cb818&sni=ru.bvps.cloud&type=tcp#🇷🇺 Albedo - #11
+hysteria2://be7441a663ef465566e3a6e441a16357@188.225.80.130:7443/?sni=tw-vds.t1n2.com#🇷🇺 Albedo - #12
+vless://1dd5f2be-f124-4f35-9239-8abc042829c2@92.242.61.92:543?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=H4VeKzsqesO2LggCpL0WuYRojKXWNF_y4UABkGRadxs&security=reality&sid=d898401f400ccf57&sni=max.ru&type=tcp#🇫🇮 Albedo - #13
+vless://68001b7e-e48a-5a02-8243-c1a2a37b66b7@146.19.254.109:443?encryption=none&fp=chrome&pbk=WIeO8R9We0X2lv0M3-E_yOkXyUBayIRKIBDUMDVu6BE&security=reality&sid=ffffffffff&sni=ya.ru&type=grpc#🇳🇱 Albedo - #14
