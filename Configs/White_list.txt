@@ -1,18 +1,12 @@
 # profile-title: ⚪ WHITE | Albedo — Белый список
 # profile-update-interval: 1
-# Date/Time: 2026-06-18 / 11:25 (Moscow)
-# Количество: 10
-vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@37.139.34.63:23356?encryption=none&fp=chrome&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&security=reality&serviceName=api&sid=483d116ad48a4091&sni=apple.com&type=grpc#🇷🇺 Albedo - #1
-hysteria2://be7441a663ef465566e3a6e441a16357@tw-vds.t1n2.com:7443/?sni=tw-vds.t1n2.com#🇷🇺 Albedo - #2
-vless://493de030-d144-435e-b20c-60218904a2f8@51.250.24.222:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🏳️ Albedo - #3
-vless://1dd5f2be-f124-4f35-9239-8abc042829c2@92.242.61.92:543?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=H4VeKzsqesO2LggCpL0WuYRojKXWNF_y4UABkGRadxs&security=reality&sid=d898401f400ccf57&sni=max.ru&type=tcp#🇫🇮 Albedo - #4
-vless://98dab41c-f18a-406b-8de2-3cc8bb797d5d@argg1.auragg.org:48350?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ea23HWLvV6k7UjJ8xCsUH2UI0oyasSLjXV84aTXQ6Uk&security=reality&sni=stats.vk-portal.net&type=tcp#🇩🇪 Albedo - #5
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@155.212.182.19:443?encryption=none&fp=chrome&pbk=A7g4cVaB6_5cmIrGbv-PmkVpS4pvHWp2HfLZbjv-SDQ&security=reality&sid=5e841fab&sni=wildberries.ru&type=tcp#🇵🇱 Albedo - #6
-vless://68001b7e-e48a-5a02-8243-c1a2a37b66b7@146.19.254.109:443?encryption=none&fp=chrome&pbk=WIeO8R9We0X2lv0M3-E_yOkXyUBayIRKIBDUMDVu6BE&security=reality&sid=ffffffffff&sni=ya.ru&type=grpc#🇳🇱 Albedo - #7
-vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Albedo - #8
-hysteria2://be7441a663ef465566e3a6e441a16357@tw-vds.t1n2.com:7443/?sni=tw-vds.t1n2.com#🇷🇺 Albedo - #9
-vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@37.139.34.63:23356?encryption=none&fp=chrome&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&security=reality&serviceName=api&sid=483d116ad48a4091&sni=apple.com&type=grpc#🇷🇺 Albedo - #10
-vless://52b71b75-4b77-4cec-990b-046ec1938e1f@45.92.177.186:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-sij6MifOyoPdIBR9kjB3ww2ClWk7IhITppFxUEdBzI&security=reality&sid=9e0ba98da61cb818&sni=ru.bvps.cloud&type=tcp#🇷🇺 Albedo - #11
-hysteria2://be7441a663ef465566e3a6e441a16357@188.225.80.130:7443/?sni=tw-vds.t1n2.com#🇷🇺 Albedo - #12
-vless://1dd5f2be-f124-4f35-9239-8abc042829c2@92.242.61.92:543?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=H4VeKzsqesO2LggCpL0WuYRojKXWNF_y4UABkGRadxs&security=reality&sid=d898401f400ccf57&sni=max.ru&type=tcp#🇫🇮 Albedo - #13
-vless://68001b7e-e48a-5a02-8243-c1a2a37b66b7@146.19.254.109:443?encryption=none&fp=chrome&pbk=WIeO8R9We0X2lv0M3-E_yOkXyUBayIRKIBDUMDVu6BE&security=reality&sid=ffffffffff&sni=ya.ru&type=grpc#🇳🇱 Albedo - #14
+# Date/Time: 2026-06-19 / 13:10 (Moscow)
+# Количество: 8
+vless://70ee1dd4-5d67-49ac-b9c4-d0c08826116d@31.31.197.82:10000?mode=multi&security=reality&encryption=none&pbk=9xzdm_jzkLpqPjYVEJ_74EtFkQUGp6UG1TtaVLPng2s&fp=qq&type=grpc&serviceName=grpc2&sni=max.ru&sid=afee962d#🇪🇪 Albedo - #1
+vless://0e86bcd6-9b31-4cbc-b4f4-bc85f3c5f5d5@51.250.23.0:443?security=reality&encryption=none&pbk=Gql4XdwbUI6AuYYKX9qk_WfkazHKASdmqBdAkPhh9yA&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6da54564c7a566d1#🇫🇮 Albedo - #2
+vless://0e86bcd6-9b31-4cbc-b4f4-bc85f3c5f5d5@51.250.23.0:443?security=reality&encryption=none&pbk=Gql4XdwbUI6AuYYKX9qk_WfkazHKASdmqBdAkPhh9yA&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6da54564c7a566d1#🇫🇮 Albedo - #3
+vless://cfe3ee90-07fb-44ab-9f68-8bf501ca5abc@82.117.87.162:8440?security=reality&encryption=none&pbk=-Kous6J91_U5J9dTp_8lhV0nY1o7Sh7HJwQCOZRUmwA&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=streaming-1.barryvpn.com&sid=ae#🇩🇪 Albedo - #4
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?security=tls&insecure=0&sni=newlte.kihsuyhf8jkiugsxb.cfd#🇳🇱 Albedo - #5
+hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@193.142.59.97:443?security=tls&insecure=0&sni=u711540us1244.csgfw.top#🏳️ Albedo - #6
+hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@193.142.59.97:443?security=tls&alpn=h3&insecure=0&mport=30000-32000&sni=u711540us1244.csgfw.top#🏳️ Albedo - #7
+vless://0e86bcd6-9b31-4cbc-b4f4-bc85f3c5f5d5@51.250.23.0:443?security=reality&encryption=none&pbk=Gql4XdwbUI6AuYYKX9qk_WfkazHKASdmqBdAkPhh9yA&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6da54564c7a566d1#🇫🇮 Albedo - #8
