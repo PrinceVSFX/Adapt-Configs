@@ -1,12 +1,35 @@
 # profile-title: ⚪ WHITE | Albedo — Белый список
 # profile-update-interval: 1
-# Date/Time: 2026-06-19 / 13:10 (Moscow)
-# Количество: 8
-vless://70ee1dd4-5d67-49ac-b9c4-d0c08826116d@31.31.197.82:10000?mode=multi&security=reality&encryption=none&pbk=9xzdm_jzkLpqPjYVEJ_74EtFkQUGp6UG1TtaVLPng2s&fp=qq&type=grpc&serviceName=grpc2&sni=max.ru&sid=afee962d#🇪🇪 Albedo - #1
-vless://0e86bcd6-9b31-4cbc-b4f4-bc85f3c5f5d5@51.250.23.0:443?security=reality&encryption=none&pbk=Gql4XdwbUI6AuYYKX9qk_WfkazHKASdmqBdAkPhh9yA&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6da54564c7a566d1#🇫🇮 Albedo - #2
-vless://0e86bcd6-9b31-4cbc-b4f4-bc85f3c5f5d5@51.250.23.0:443?security=reality&encryption=none&pbk=Gql4XdwbUI6AuYYKX9qk_WfkazHKASdmqBdAkPhh9yA&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6da54564c7a566d1#🇫🇮 Albedo - #3
-vless://cfe3ee90-07fb-44ab-9f68-8bf501ca5abc@82.117.87.162:8440?security=reality&encryption=none&pbk=-Kous6J91_U5J9dTp_8lhV0nY1o7Sh7HJwQCOZRUmwA&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=streaming-1.barryvpn.com&sid=ae#🇩🇪 Albedo - #4
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?security=tls&insecure=0&sni=newlte.kihsuyhf8jkiugsxb.cfd#🇳🇱 Albedo - #5
-hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@193.142.59.97:443?security=tls&insecure=0&sni=u711540us1244.csgfw.top#🏳️ Albedo - #6
-hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@193.142.59.97:443?security=tls&alpn=h3&insecure=0&mport=30000-32000&sni=u711540us1244.csgfw.top#🏳️ Albedo - #7
-vless://0e86bcd6-9b31-4cbc-b4f4-bc85f3c5f5d5@51.250.23.0:443?security=reality&encryption=none&pbk=Gql4XdwbUI6AuYYKX9qk_WfkazHKASdmqBdAkPhh9yA&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6da54564c7a566d1#🇫🇮 Albedo - #8
+# Date/Time: 2026-06-21 / 08:40 (Moscow)
+# Количество: 31
+vless://c8a8dcf1-18aa-40e6-97d5-5dae9912e51b@65.109.219.2:2026?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yt2kyF7DABbLCwB49Hd3VuNu7-QN57GiLoeiD5vVg30&security=reality&sid=7d&sni=www.oracle.com&type=tcp#🇫🇮 Albedo - #1
+vless://e64100fd-773d-4cc6-adbe-a4c94876d07a@45.131.214.45:443?encryption=none&fp=chrome&pbk=ID6lMOmt7BiuPHjZkoLSWNR9ONmB6b4L9skIIFjtXxU&security=reality&sni=d.primarymaster.online&type=grpc#🇩🇪 Albedo - #2
+vless://d7d4a028-d5cd-4e1d-ab0a-6712ac1580dc@158.160.239.151:443?encryption=none&fp=chrome&mode=stream-one&path=%2Fcdn-stream-c93a&pbk=f3FMThwEbSnGM8h31NH50e-X_zuALPittQv3MAWCkkA&security=reality&sid=c93a6c16b8ef5c0f&sni=yandex.ru&type=xhttp#🇳🇱 Albedo - #3
+vless://d7d4a028-d5cd-4e1d-ab0a-6712ac1580dc@158.160.239.151:443?encryption=none&fp=chrome&mode=auto&path=%2Fcdn-stream-c93a&pbk=f3FMThwEbSnGM8h31NH50e-X_zuALPittQv3MAWCkkA&security=reality&sid=c93a6c16b8ef5c0f&sni=yandex.ru&type=xhttp#🇳🇱 Albedo - #4
+vless://30981a1c-8cf6-599a-8be3-e2b2034688ab@news.microsoft.com:2087?encryption=none&host=erfan-albasit.proxy-se7en.workers.dev&path=%2Fsync&security=tls&sni=erfan-albasit.proxy-se7en.workers.dev&type=ws#🏳️ Albedo - #5
+vmess://df9c9355-b02c-4c12-909d-0dbeb725d52b@37.220.161.249:443?encryption=auto&host=renderer-stream-1-411.mirra.now&path=%2Fapi%2Fv1%2Fgpu-stream%2Fsocket&security=tls&sni=renderer-stream-1-411.mirra.now&type=ws#🇳🇱 Albedo - #6
+vless://30981a1c-8cf6-599a-8be3-e2b2034688ab@news.microsoft.com:8443?encryption=none&host=erfan-albasit.proxy-se7en.workers.dev&path=%2Fsync&security=tls&sni=erfan-albasit.proxy-se7en.workers.dev&type=ws#🏳️ Albedo - #7
+vless://30981a1c-8cf6-599a-8be3-e2b2034688ab@news.microsoft.com:2096?encryption=none&host=erfan-albasit.proxy-se7en.workers.dev&path=%2Fsync&security=tls&sni=erfan-albasit.proxy-se7en.workers.dev&type=ws#🏳️ Albedo - #8
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443/?sni=newlte.kihsuyhf8jkiugsxb.cfd#🇳🇱 Albedo - #9
+vmess://df9c9355-b02c-4c12-909d-0dbeb725d52b@93.93.88.22:443?encryption=auto&host=renderer-stream-1-411.mirra.now&path=%2Fapi%2Fv1%2Fgpu-stream%2Fsocket&security=tls&sni=renderer-stream-1-411.mirra.now&type=ws#🇳🇱 Albedo - #10
+vmess://df9c9355-b02c-4c12-909d-0dbeb725d52b@renderer-stream-1-411.mirra.now:443?encryption=auto&path=%2Fapi%2Fv1%2Fgpu-stream%2Fsocket&security=tls&sni=renderer-stream-1-411.mirra.now&type=ws#🇳🇱 Albedo - #11
+trojan://b810b5f0-6774-11f1-9361-1239d0255272@news.microsoft.com:443?host=uk1.test3.net&path=%2Fhowdy&sni=uk1.test3.net&type=ws#🏳️ Albedo - #12
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@94.183.170.16:44333?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&type=tcp#🇪🇪 Albedo - #13
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@94.183.170.16:55443?encryption=none&fp=chrome&mode=auto&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&type=xhttp#🇪🇪 Albedo - #14
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@94.183.170.16:62800?encryption=none&fp=chrome&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&serviceName=grpc&sid=63a9b4c563de9906&sni=yandex.ru&type=grpc#🇪🇪 Albedo - #15
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:55443?encryption=none&fp=chrome&host=yandex.ru&mode=auto&path=%2F&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&type=xhttp#🇩🇪 Albedo - #16
+vless://1f11b5cd-7651-492c-9dbd-4f9bad6acd20@205.237.105.80:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&security=reality&sid=d0a1665d1b96515e&sni=dev.max.ru&type=tcp#🇫🇷 Albedo - #17
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:55443?encryption=none&fp=chrome&mode=auto&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&type=xhttp#🇩🇪 Albedo - #18
+vless://36562b99-aadd-4e38-b566-24e0d219b1d6@161.104.48.27:443?encryption=none&fp=chrome&mode=auto&path=%2Fberketgo&pbk=tFKuLI3W0VZ7IxAL6hFQhD7DWmxAl0_NCjLya_I64zQ&security=reality&sid=b2d4f6e8&sni=okko.tv&type=xhttp#🇩🇪 Albedo - #19
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:44333?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&type=tcp#🇩🇪 Albedo - #20
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:62800?encryption=none&fp=chrome&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&serviceName=grpc&sid=63a9b4c563de9906&sni=yandex.ru&type=grpc#🇩🇪 Albedo - #21
+vless://546d7622-cdf6-4d39-af34-9060c5720f57@194.58.42.245:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=c-DREplmKGrfmNQXt5d462Ym5MJKLcBRRWw1uTcfSRk&security=reality&sid=1ab55c88a0f1d0c0&sni=max.ru&type=tcp#🇰🇿 Albedo - #22
+vless://4fd37e00-979f-48e4-9bb6-c23e1271d19c@109.237.98.81:8080?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=QPIGKqqN_iEsm-7Wh-SGXKI77Srub_yvqIfq3dUU_SM&security=reality&sid=7d1d&sni=api-maps.yandex.ru&type=xhttp#🇵🇱 Albedo - #23
+vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?encryption=none&fp=chrome&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&type=xhttp#🇵🇱 Albedo - #24
+vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Albedo - #25
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@94.183.170.16:55443?encryption=none&fp=chrome&host=yandex.ru&mode=auto&path=%2F&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&type=xhttp#🇪🇪 Albedo - #26
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:55443?encryption=none&fp=chrome&host=yandex.ru&mode=auto&path=%2F&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&type=xhttp#🇩🇪 Albedo - #27
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:44333?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&type=tcp#🇩🇪 Albedo - #28
+vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Albedo - #29
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443/?sni=newlte.kihsuyhf8jkiugsxb.cfd#🇳🇱 Albedo - #30
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:62800?encryption=none&fp=chrome&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&serviceName=grpc&sid=63a9b4c563de9906&sni=yandex.ru&type=grpc#🇩🇪 Albedo - #31
