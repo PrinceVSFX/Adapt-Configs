@@ -1,11 +1,9 @@
 profile-title: ⚪ WHITE | Albedo — Белый список
 profile-update-interval: 1
-Date/Time: 23:23 (Moscow) Sunday, 28 June 2026
-Количество: 7
+Date/Time: 11:50 (Moscow) Monday, 29 June 2026
+Количество: 4
+
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#🏳️ Albedo - #1
-vless://1189bc23-27f7-47c1-89d4-1e6843a09cb6@172.64.147.226:2083?encryption=none&host=freetools-h2s.pages.dev&path=%2F&security=tls&sni=freetools-h2s.pages.dev&type=ws#🏳️ Albedo - #2
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443/?sni=fta.fontanvpn.com#🇫🇮 Albedo - #3
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?sni=fta.fontanvpn.com#🇫🇮 Albedo - #4
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443/?sni=newlte.kihsuyhf8jkiugsxb.cfd#🇳🇱 Albedo - #5
-trojan://afbcd89a-5a90-4a44-a42a-be08f444aa3f@blog.webex.com:443?host=unnes.ac.id.yxls.eu.cc&path=%2Fbr-orcl&sni=unnes.ac.id.yxls.eu.cc&type=ws#🏳️ Albedo - #6
-trojan://MiTiVPN@91.193.58.201:443?host=95r.ir&path=%2FMiTiVPN%3DNL&sni=95r.ir&type=ws#🏳️ Albedo - #7
+trojan://afbcd89a-5a90-4a44-a42a-be08f444aa3f@blog.webex.com:443?host=unnes.ac.id.yxls.eu.cc&path=%2Fbr-orcl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#🏳️ Albedo - #2
+trojan://MiTiVPN@91.193.58.201:443?host=95r.ir&path=%2FMiTiVPN%3DNL&security=tls&sni=95r.ir&type=ws#🏳️ Albedo - #3
+vless://d205ae68-0819-473c-b425-6c5947ac2f8d@212.41.9.16:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QKw-cuh8QjHzmIpr2SGfU6lP86vPJRfPVqPKBHZaA0Y&security=reality&sid=09b6fb&sni=apple.morro-settings.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Albedo%20-%20%234
