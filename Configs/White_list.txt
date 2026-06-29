@@ -1,9 +1,5 @@
 profile-title: ⚪ WHITE | Albedo — Белый список
 profile-update-interval: 1
-Date/Time: 11:50 (Moscow) Monday, 29 June 2026
-Количество: 4
+Date/Time: 20:15 (Moscow) Monday, 29 June 2026
+Количество: 0
 
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#🏳️ Albedo - #1
-trojan://afbcd89a-5a90-4a44-a42a-be08f444aa3f@blog.webex.com:443?host=unnes.ac.id.yxls.eu.cc&path=%2Fbr-orcl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#🏳️ Albedo - #2
-trojan://MiTiVPN@91.193.58.201:443?host=95r.ir&path=%2FMiTiVPN%3DNL&security=tls&sni=95r.ir&type=ws#🏳️ Albedo - #3
-vless://d205ae68-0819-473c-b425-6c5947ac2f8d@212.41.9.16:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QKw-cuh8QjHzmIpr2SGfU6lP86vPJRfPVqPKBHZaA0Y&security=reality&sid=09b6fb&sni=apple.morro-settings.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Albedo%20-%20%234
