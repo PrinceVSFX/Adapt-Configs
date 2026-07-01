@@ -1,10 +1,10 @@
 # profile-title: ⚪ WHITE | Albedo — Белый список
 # profile-update-interval: 1
-# Date/Time: 2026-07-02 / 01:10 (Moscow)
+# Date/Time: 2026-07-02 / 01:15 (Moscow)
 # Количество: 19
 
-vless://e0e61ac1-26c5-4473-a78f-cc4641bdbeca@95.85.241.169:8443?encryption=none&security=reality&sni=cdn.kwork.com&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&type=grpc&serviceName=grpc&mode=gun#🇸🇪 Albedo - #1
-vless://e0e61ac1-26c5-4473-a78f-cc4641bdbeca@45.91.55.225:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&type=tcp#🇷🇺 Albedo - #2
+vless://e0e61ac1-26c5-4473-a78f-cc4641bdbeca@95.85.241.169:8443?encryption=none&security=reality&sni=cdn.kwork.com&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&type=grpc&serviceName=grpc&mode=gun#🇸🇪 Albedo - #1 YT
+vless://e0e61ac1-26c5-4473-a78f-cc4641bdbeca@45.91.55.225:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&type=tcp#🇷🇺 Albedo - #2 YT
 vless://e0e61ac1-26c5-4473-a78f-cc4641bdbeca@217.16.23.174:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&type=tcp#🏳️ Albedo - #3
 vless://e0e61ac1-26c5-4473-a78f-cc4641bdbeca@217.16.23.174:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=qq&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&type=tcp#🇷🇺 Albedo - #4
 vless://e0e61ac1-26c5-4473-a78f-cc4641bdbeca@217.16.23.174:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apiok.ru&fp=qq&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&type=tcp#🇷🇺 Albedo - #5
