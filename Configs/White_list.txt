@@ -1,5 +1,9 @@
-profile-title: ⚪ WHITE | Albedo — Белый список
-profile-update-interval: 1
-Date/Time: 20:15 (Moscow) Monday, 29 June 2026
-Количество: 0
+# profile-title: ⚪ WHITE | Albedo — Белый список
+# profile-update-interval: 1
+# Date/Time: 2026-07-02 / 00:30 (Moscow)
+# Количество: 4
 
+vless://13e1ee48-0280-40d5-9e67-0d75ae5f28b5@217.144.189.90:443?security=reality&encryption=none&pbk=ZrY8j7QxRmezGLNIokvaP9UMPwOEQ148RNoqya2WGxg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=abcd1234#🏳️ Albedo - #1
+vless://dcde0c41-e089-4228-baef-d85eaec01710@45.132.18.70:443?security=reality&encryption=none&pbk=fCHXLcQG11a2TwH8f1_Ygsfbk_jlQV6SNzx3a0coIn0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=abcd1234#🏳️ Albedo - #2
+vless://98de0f0d-faec-43e1-ab40-a3bd6d91ceb8@132.243.254.58:443?security=reality&encryption=none&pbk=BR69ZK8WI9lWKssofXxe45kViW7TcBoIPKv5aZI4uxE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=abcd1234#🏳️ Albedo - #3
+vless://0281c1be-e123-480a-a104-d0b506ecfc7d@147.45.78.118:443?security=reality&encryption=none&pbk=CJoXyyPzLgs7qeqEjvrnMlpYOPVfNHqPF0uuZpq_QUU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=abcd1234#🏳️ Albedo - #4
