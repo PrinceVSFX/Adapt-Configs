@@ -1,7 +1,7 @@
 # profile-title: ⚪ WHITE | Albedo — Белый список
 # profile-update-interval: 1
-# Date/Time: 2026-07-02 / 18:15 (Moscow)
-# Количество: 12
+# Date/Time: 2026-07-02 / 21:05 (Moscow)
+# Количество: 27
 vless://e4cd624c-18d6-415e-8cde-0a800e06ce31@94.139.251.7:4089?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=efO4FU4XI20hptm8R_6awJ-UmyHI_5zNaBhQEyBBLVU&security=reality&sid=abcd1234&sni=ads.x5.ru&type=tcp#🇫🇮 Albedo - #1
 vless://e4cd624c-18d6-415e-8cde-0a800e06ce31@94.139.251.7:3087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=efO4FU4XI20hptm8R_6awJ-UmyHI_5zNaBhQEyBBLVU&security=reality&sid=abcd1234&sni=dzen.ru&type=tcp#🇷🇺 Albedo - #2
 vless://ff43a635-641d-f535-8690-62f3e3601944@192.248.149.81:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=laDETVOcOKzz_vtU8iuGEE-Sv-TxRj1yFuAvfnpclig&security=reality&sid=02216d88c44b6d80&sni=westranga.3cx.uk&type=tcp#🏳️ Albedo - #3
@@ -14,3 +14,18 @@ vless://9d748910-8306-411a-9b2e-11f0a2a4486f@78.159.250.32:1111?encryption=none&
 vless://ae0959f1-f25a-43d0-9c88-be1672641fc3@37.139.34.124:443?security=reality&encryption=none&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🏳️ Albedo - #10
 vless://ae0959f1-f25a-43d0-9c88-be1672641fc3@37.139.34.124:443?security=reality&encryption=none&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🏳️ Albedo - #11
 vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.206:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=at.sellflow.org#🏳️ Albedo - #12
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.237:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🏳️ Albedo - #13
+vless://89db0319-9651-000a-b599-770e18cab892@176.109.82.19:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=43dcff53849b81e6#🏳️ Albedo - #14
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.253:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🏳️ Albedo - #15
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.147:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🏳️ Albedo - #16
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.210:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🏳️ Albedo - #17
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.168:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🏳️ Albedo - #18
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.171:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🏳️ Albedo - #19
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.140:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🏳️ Albedo - #20
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.148:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🏳️ Albedo - #21
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.199:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🏳️ Albedo - #22
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.8:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🏳️ Albedo - #23
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.129:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🏳️ Albedo - #24
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.141:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🏳️ Albedo - #25
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.131:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🏳️ Albedo - #26
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.225:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🏳️ Albedo - #27
