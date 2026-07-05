@@ -1,29 +1,11 @@
 profile-title: ⚪ WHITE | Albedo — Белый список
 profile-update-interval: 1
-Date/Time: 00:37 (Moscow) Sunday, 05 July 2026
-Количество: 24
+Date/Time: 12:34 (Moscow) Sunday, 05 July 2026
+Количество: 6
 
-vless://91c31394-754c-4424-9d39-93386d3b4cab@195.209.87.198:443?path=%2Fv1%2Fdata%2Fsync%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=s81381.cdn.ngenix.net#🇪🇪 Albedo - #1
-vless://f5e8cbda-923b-4ef2-992a-252ee5ae47bf@212.193.153.93:443?path=%2Fv1%2Fdata%2Fsync%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=s58794.cdn.ngenix.net#🇮🇳 Albedo - #2
-vless://560f1ee3-fe44-4d87-be08-4fad052a1bcf@185.229.9.204:443?security=reality&encryption=none&pbk=0k11W7Kb0ncWPcknoD0xJikoESlU5ApDYySG7X7OZCU&headerType=&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=27e53bbcab7593d7#🇩🇪 Albedo - #3
-vless://34fabefd-88b9-4a75-b354-99bd81be6c41@78.159.247.177:7444?security=reality&encryption=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇨🇿 Albedo - #4
-vless://4af89b09-ce0c-4dab-b798-629d8b900af0@dp-hu-01.live:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#🇭🇺 Albedo - #5
-vless://9fce38fd-1d71-4c39-bf8d-1685db314664@node5.frost-api.com:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=fb916778d4#🇬🇧 Albedo - #6
-vless://2652aeac-70cd-4a49-9f09-3de9ef885e01@194.55.239.216:443?mode=gun&security=reality&encryption=none&pbk=hZvyxkVb6fbmVM6YWzTxlIE0WDwXzL2ndD9QHvP9x1M&fp=firefox&type=grpc&sni=ads.x5.ru&sid=c31f9a0e7d4b52#🇸🇪 Albedo - #7
-vless://72edcaa1-685e-4022-9576-273746529e1f@78.159.245.43:25567?security=reality&encryption=none&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=iv.kommersant.ru&sid=a5bd715847213387#🇩🇪 Albedo - #8
-vless://72edcaa1-685e-4022-9576-273746529e1f@217.19.122.188:25567?security=reality&encryption=none&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=iv.kommersant.ru&sid=a5bd715847213387#🇩🇪 Albedo - #9
-vless://72edcaa1-685e-4022-9576-273746529e1f@151.236.114.151:25567?security=reality&encryption=none&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=iv.kommersant.ru&sid=a5bd715847213387#🇩🇪 Albedo - #10
-vless://72edcaa1-685e-4022-9576-273746529e1f@37.18.14.97:25567?security=reality&encryption=none&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=iv.kommersant.ru&sid=a5bd715847213387#🇩🇪 Albedo - #11
-vless://a9f9bbcf-c3e1-4b4a-a465-0ff340c953c7@84.201.155.125:443?security=reality&encryption=none&pbk=u918pQoBaR_OKVik9dhLdqhTWDpyWdh84MjukzFCZio&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=c6d0b2fa72eb6389#🇳🇱 Albedo - #12
-vless://612f6d1c-a551-45af-83b6-d8e3d0842bfb@194.55.239.186:67?security=reality&encryption=none&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl-t3.vinnypuxtomoon.today&sid=c0d1d1776fed0f6d#🇳🇱 Albedo - #13
-vless://b5d3b84f-0cef-4cd9-96f2-478f72759bc0@80.90.185.66:9443?security=reality&encryption=none&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=1000#🇳🇱 Albedo - #14
-vless://ee7de6e8-e73d-4878-adaa-8a2e99dc768a@46.8.209.184:2099?security=reality&encryption=none&pbk=FTVQSLe_kSxKly4fa1JFkhYUzpJywK6HRC0xEk0BAlQ&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=gate.esimpson.org&sid=1b73426e#🇵🇱 Albedo - #15
-vless://b5d3b84f-0cef-4cd9-96f2-478f72759bc0@185.71.67.212:443?path=%2Fapi%2Fv2%2Fsync%2F09f21a21c0&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=4861b6a1d8.cacheio.ru&fp=chrome&type=ws&allowInsecure=0&sni=4861b6a1d8.cacheio.ru#🇵🇱 Albedo - #16
-vless://18c30720-fb05-4b82-9281-e0eaab124926@87.228.101.62:443?mode=gun&security=reality&encryption=none&pbk=Yab1rIFQ7k-SSQlMVBKHCKFW9V80RioBgshIBQ2HVEY&fp=chrome&spx=%2F&type=grpc&serviceName=secure&sni=ads.x5.ru#🇵🇱 Albedo - #17
-vless://e880053e-2701-46b0-a971-a57b2b0c06e6@185.253.23.122:443?security=reality&encryption=none&pbk=Aj6Lfc0JKKROX46eHAQHlzrNpOTY9CKp7BcVj9cw8Ag&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cluster.salesmarketmsk.ru&sid=75f8575e5396a2fe#🇸🇪 Albedo - #18
-vless://d8abc58b-dd70-4c22-978a-4efcdeca75f7@79.174.90.102:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=428ef87fd47a3a32#🇬🇧 Albedo - #19
-vless://d8abc58b-dd70-4c22-978a-4efcdeca75f7@194.55.239.115:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=428ef87fd47a3a32#🇬🇧 Albedo - #20
-vless://8cddd533-9611-4fc4-adda-7d629743b4b2@school.vles.space:1443?security=reality&encryption=none&pbk=Ej_PPr2iomuIl23svqB6FgWf2Sw6FMC6ipavO5w5OXY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=botapi.max.ru&sid=099755ac7b731e9e#🇬🇧 Albedo - #21
-vless://6aecfefe-f873-4461-8a18-ca4ebbbfae93@2.26.98.185:4443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=2.26.98.185#🇩🇪 Albedo - #22
-vless://c918927a-a4cf-45ad-a5c8-e135129ee1d4@37.9.4.168:443?mode=gun&security=reality&encryption=none&pbk=4Aj0KdIO7gK-KyX6oBzSic_oIr2ooDXtcHKB05qTrEI&fp=edge&type=grpc&serviceName=gun&sni=gentoo.ubuntuhosting.host&sid=1b#🇦🇲 Albedo - #23
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@m247-fi-01.live:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#🇫🇮 Albedo - #24
+vless://a2415a12-3f92-4636-9823-9828d3ceb818@45.130.147.227:443?encryption=none&fp=chrome&pbk=HHTugdBbPIsLatDJJIqLBA2xYiLzv5pGijXREUABvQU&security=reality&sid=0a&sni=www.ya.ru&type=tcp#🇵🇱 Albedo - #1
+vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.11:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🇪🇸 Albedo - #2
+vless://eece4171-e025-40a3-9027-e395036ff99d@dp-es-01.live:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🇪🇸 Albedo - #3
+vless://10e1b54e-9bd1-4181-b337-3e464f8051ec@176.109.92.141:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=ads.x5.ru&type=tcp#🇷🇺 Albedo - #4
+vless://10e1b54e-9bd1-4181-b337-3e464f8051ec@pro-ru-213.emrata.top:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#🇷🇺 Albedo - #5
+vless://10e1b54e-9bd1-4181-b337-3e464f8051ec@pro-ru-m.emrata.top:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=ads.x5.ru&type=tcp#🇷🇺 Albedo - #6
