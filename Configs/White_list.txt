@@ -1,7 +1,7 @@
 profile-title: ⚪ WHITE | Albedo — Белый список
 profile-update-interval: 1
-Date/Time: 12:34 (Moscow) Sunday, 05 July 2026
-Количество: 6
+Date/Time: 12:25 (Moscow) Sunday, 05 July 2026
+Количество: 9
 
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@45.130.147.227:443?encryption=none&fp=chrome&pbk=HHTugdBbPIsLatDJJIqLBA2xYiLzv5pGijXREUABvQU&security=reality&sid=0a&sni=www.ya.ru&type=tcp#🇵🇱 Albedo - #1
 vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.11:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🇪🇸 Albedo - #2
@@ -9,3 +9,6 @@ vless://eece4171-e025-40a3-9027-e395036ff99d@dp-es-01.live:443?encryption=none&f
 vless://10e1b54e-9bd1-4181-b337-3e464f8051ec@176.109.92.141:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=ads.x5.ru&type=tcp#🇷🇺 Albedo - #4
 vless://10e1b54e-9bd1-4181-b337-3e464f8051ec@pro-ru-213.emrata.top:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#🇷🇺 Albedo - #5
 vless://10e1b54e-9bd1-4181-b337-3e464f8051ec@pro-ru-m.emrata.top:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=ads.x5.ru&type=tcp#🇷🇺 Albedo - #6
+vless://3bf0c8ba-657a-11f1-a103-aef63c7126b0@176.98.177.177:2053?encryption=none&fp=chrome&pbk=yjmr4nFrDGjHa32A9Uriq3co86CE-waGH3pmZt2_oQk&security=reality&serviceName=grpc-direct&sid=da5f3e182bc85077&sni=cam-msk-7.videomonitor.cloud&type=grpc#🇩🇪 Albedo - #7
+vless://3bf0c8ba-657a-11f1-a103-aef63c7126b0@194.67.102.216:2053?encryption=none&fp=chrome&pbk=nd2gyce_j_Erx4odsTQnTY9W8Iz9n-ecR95k4l_dCSE&security=reality&serviceName=grpc-direct&sid=f5fcd679e35aebd1&sni=cam-reg-2.live-cams.ru&type=grpc#🇩🇪 Albedo - #8
+vless://3bf0c8ba-657a-11f1-a103-aef63c7126b0@85.239.38.231:2053?encryption=none&fp=chrome&pbk=Kpfb-cfRzFu3ytDc8BMl6Sif-HqoyW_cPcsI6wmhDls&security=reality&serviceName=grpc-direct&sid=9511dbb1c23ca741&sni=cam-msk-1.videomonitor.cloud&type=grpc#🇩🇪 Albedo - #9
