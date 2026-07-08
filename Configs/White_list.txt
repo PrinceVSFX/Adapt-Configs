@@ -1,25 +1,26 @@
 profile-title: ⚪ WHITE | Albedo — Белый список
 profile-update-interval: 1
-Date/Time: 19:52 (Moscow) Wednesday, 08 July 2026
-Количество: 20
+Date/Time: 01:30 (Moscow) Thursday, 09 July 2026
+Количество: 21
 
-vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?encryption=none&fp=chrome&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&security=reality&sid=db04ce8bdb8900f1&sni=prod.de-node-01.security-sbrf.ru&type=tcp#🇷🇺 White - #1
-vless://a5d0bebb-3a92-075a-2df3-4c7d36b04af0@176.109.92.139:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=ads.x5.ru&type=tcp#🇷🇺 White - #2
-vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#🇷🇺 White - #3
-vless://a5d0bebb-3a92-075a-2df3-4c7d36b04af0@176.109.92.139:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=ads.x5.ru&type=tcp#🇷🇺 White - #4
-vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#🇷🇺 White - #5
-vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@ru-213.monkeyisland.xyz:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#🇷🇺 White - #6
-vless://0047a8bc-0025-4d45-899b-c75c669f3ede@178.248.232.186:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&security=reality&sid=ab4cc4f5aa354fa4&sni=storage.yandex.net&type=tcp#🇷🇺 White - #7
-vless://a5d0bebb-3a92-075a-2df3-4c7d36b04af0@194.55.239.244:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=ads.x5.ru&type=tcp#🇷🇺 White - #8
-vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.105:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#🇷🇺 White - #9
-vless://a5d0bebb-3a92-075a-2df3-4c7d36b04af0@194.55.239.245:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=ads.x5.ru&type=tcp#🇷🇺 White - #10
-vless://a5d0bebb-3a92-075a-2df3-4c7d36b04af0@176.109.92.139:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=ads.x5.ru&type=tcp#🇷🇺 White - #11
-vless://0047a8bc-0025-4d45-899b-c75c669f3ede@178.248.232.186:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&security=reality&sid=ab4cc4f5aa354fa4&sni=storage.yandex.net&type=tcp#🇷🇺 White - #12
-vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#🇷🇺 White - #13
-vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#🇷🇺 White - #14
-vless://a5d0bebb-3a92-075a-2df3-4c7d36b04af0@213.219.212.24:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#🇷🇺 White - #15
-vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.24:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#🇷🇺 White - #16
-vless://0047a8bc-0025-4d45-899b-c75c669f3ede@178.248.232.186:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&security=reality&sid=ab4cc4f5aa354fa4&sni=storage.yandex.net&type=tcp#🇷🇺 White - #17
-vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.24:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#🇷🇺 White - #18
-vless://2f93a08b-5c23-502c-936d-a53072cf9882@5.42.100.84:48212?encryption=none&fp=chrome&pbk=8rZnE8gkbRv3ZVHUvkyrMZnmoIRhtncAgQpUAPAwIlo&security=reality&serviceName=grpc&sid=62b5466a2183d4da&sni=yandex.ru&type=grpc#🇷🇺 White - #19
-vless://b9a83acf-44ff-44a5-b8bc-417c9f82ae11@45.196.193.116:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=40ce08cf20c67003&sni=storage.yandex.net&type=tcp#🇷🇺 White - #20
+vless://4f35284c-311a-4c2c-b196-fda3ac8a0b66@85.198.101.160:443?security=reality&encryption=none&pbk=MSHKV2n0D01xQkXUY64I1gSraEVZb1GH8YPF9tF55kQ&headerType=&fp=chrome&spx=%2Fapi%2F87567408&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#🇷🇺 White - #1
+vless://c40f773e-3b96-417e-b22c-e48cb63ca7d9@144.31.87.16:443?security=reality&encryption=none&pbk=l5eAOSPQMEyzEPvWGAKvCkcPpsJvR3DJfYo6elw1UTE&headerType=&fp=firefox&type=tcp&sni=yandex.ru&sid=3b802dad547b0847#🇩🇪 White - #2
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#🇷🇺 White - #3
+vless://131bb705-8747-4576-b25d-31d47c66c283@45.148.119.228:2053?security=reality&encryption=none&pbk=e0zdq7dlQbw00kxTeSe_CZRFn-h--CTqb9yNK_wuLG4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#🇵🇱 White - #4
+vless://cb784d00-d34a-4389-b938-8717f7b28353@81.90.17.164:443?security=reality&encryption=none&pbk=v0XQn6uvyC8q5CThcRYLer1F1OOYpZDn5NLOvDicaWg&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yastatic.net&sid=b31c2b75add2e5fa#🇵🇱 White - #5
+vless://a88ea8bf-7001-4e29-a9bb-379f6778195c@178.250.243.230:9823?security=reality&encryption=none&pbk=iNnoaSfyKvdo5kp5znHSGFNqFxNhS0ormvHHHwsUSTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0123456789abcdef#🇷🇺 White - #6
+vless://f6aaa6db-d249-4dab-bc44-8ce670060de3@213.171.5.204:443?security=reality&encryption=none&pbk=JTDF2NcBkHPybo8UokBD01cGbFQ1Rsa2j-TJknU3TGE&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a2046727f1bb6a06#🇪🇪 White - #7
+vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=ece180c605b5453c#🇫🇷 White - #8
+vless://7cec3808-65d4-4dbd-941f-e9b640977071@185.71.67.223:443?path=%2Fstart&security=tls&alpn=h2%2C%2Bhttp%2F1.1&encryption=none&extra=null&insecure=0&host=cdn.stroimvmeste.icu&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.stroimvmeste.icu#🇩🇪 White - #9
+vless://7cec3808-65d4-4dbd-941f-e9b640977071@cdn.stroimvmeste.icu:443?mode=auto&path=%2Fstart&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.stroimvmeste.icu#🇩🇪 White - #10
+vless://f6aaa6db-d249-4dab-bc44-8ce670060de3@158.160.252.95:443?security=reality&encryption=none&pbk=G6ekEx_2qJMHo-DzjF7ww8UPbPiVSd8A6LY5yn-i3XU&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=83915e401341#🇷🇺 White - #11
+vless://967b2fad-bb2a-46d1-8efb-3bfda81f7f92@188.68.218.101:443?security=reality&encryption=none&pbk=A41b2Th15KC7t1hSRTvkA3-CzZfv1DD1XOV2L5ICuA0&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cloud.mail.ru#🇷🇺 White - #12
+vless://2f93a08b-5c23-502c-936d-a53072cf9882@5.42.100.84:48212?security=reality&encryption=none&pbk=8rZnE8gkbRv3ZVHUvkyrMZnmoIRhtncAgQpUAPAwIlo&fp=chrome&type=grpc&serviceName=grpc&sni=yandex.ru&sid=62b5466a2183d4da#🇷🇺 White - #13
+vless://f6aaa6db-d249-4dab-bc44-8ce670060de3@158.160.22.195:443?security=reality&encryption=none&pbk=9tKfmbONYzchVLBVki3UDOBgulMw2-_9fV5qm4aPiiM&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=700e5b8399d12d#🇷🇺 White - #14
+vless://f6aaa6db-d249-4dab-bc44-8ce670060de3@185.42.14.46:443?security=reality&encryption=none&pbk=G9uQu7GdqkkvE6WH0gZ1kfzt2J50s6VgddYnqck5tjw&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a29991b068641259#🇷🇺 White - #15
+vless://bb229808-c207-428c-a398-0b4bf30f29be@109.69.20.228:8443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=vpn.oplatasite.ru#🇷🇺 White - #16
+vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=ece180c605b5453c&sni=yandex.net&type=tcp#🇫🇷 White - #17
+vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=ece180c605b5453c&sni=yandex.net&type=tcp#🇫🇷 White - #18
+vless://cb784d00-d34a-4389-b938-8717f7b28353@81.90.17.164:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=v0XQn6uvyC8q5CThcRYLer1F1OOYpZDn5NLOvDicaWg&security=reality&sid=b31c2b75add2e5fa&sni=yastatic.net&type=tcp#🇵🇱 White - #19
+vless://cb784d00-d34a-4389-b938-8717f7b28353@81.90.17.164:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=v0XQn6uvyC8q5CThcRYLer1F1OOYpZDn5NLOvDicaWg&security=reality&sid=b31c2b75add2e5fa&sni=yastatic.net&type=tcp#🇵🇱 White - #20
+vless://cb784d00-d34a-4389-b938-8717f7b28353@2.26.254.89:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ulq3VvXRo14PiLx8Ymy8Z-UooTTAU6rjdJ_tIrJcJwA&security=reality&sid=e9fa03f679854462&sni=yastatic.net&type=tcp#🇺🇸 White - #21
