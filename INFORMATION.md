@@ -88,58 +88,51 @@
 
 <div align="center"> 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=180&section=header&text=BLACK%20%2F%20KEPLER&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=180&section=header&text=Adapt%20%2F%20VPN&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
 
 </div>
 
 ```yaml
-ПРОФИЛЬ: Чёрный (Глобальный/Зарубежный сегмент)
+ПРОТОКОЛЫ:
+  Основные: VLESS, Trojan, Shadowsocks, Hysteria2
+  Транспорт: TCP(Reality), xHTTP, gRPC, WebSocket(TLS)
+  Безопасность: Reality(TLS 1.3), TLS
+  Шифрование: None (XMUX обфускация), SS-методы
 
-ОСНОВА:
-  Протоколы:
-    - VLESS (основной, ~70% ключей)
-    - Trojan (~15%)
-    - Shadowsocks (SS) (~10%)
-    - Hysteria2 (единично)
-    - Прочие (редкие вкрапления tuic://, ssr:// и т.д.)
-  Транспорт:
-    - TCP (Reality, XTLS-Vision)     # Основной режим
-    - xHTTP (Packet-up)              # Для сложных сетей
-    - gRPC (Gun)                     # Резерв
-    - WebSocket (TLS)                # Для обхода особо строгих DPI
-  Безопасность: Reality (TLS 1.3), TLS, иногда без шифрования (SS)
-  Шифрование: None (с обфускацией), метод шифрования Shadowsocks
+НАЗНАЧЕНИЕ:
+  - Все ресурсы (RU + глобальные)
+  - Обход DPI, корпоративные/домашние/мобильные сети
+  - Адаптивная маршрутизация
 
-ПРЕДНАЗНАЧЕНИЕ:
-  - Зарубежные ресурсы (Apple, Tesla, Cloudflare, Wikipedia, Yahoo, Samsung)
-  - Обход глубокой инспекции пакетов (DPI)
-  - Фильтрация провайдера / корпоративные сети
-  - Сложные условия подключения (офисы, публичные Wi-Fi, мобильный интернет с блокировками)
+ЗАДЕРЖКА/НАГРУЗКА: Низкая-Высокая (автоадаптация)
+МАСКИРОВКА: Усиленная (XMUX + рандомизация Fingerprint + подмена CDN)
 
-ЗАДЕРЖКА: СРЕДНЯЯ / ВЫСОКАЯ (маршруты до EU/US/ASIA)
-НАГРУЗКА: СРЕДНЯЯ / ВЫСОКАЯ (активное использование маскировочных техник)
-МАСКИРОВКА: УСИЛЕННАЯ (XMUX + рандомизация Fingerprint + имитация голосового/видео трафика)
+XMUX: Включён
+PACKET MASKING: Включён
 
-XMUX: ВКЛЮЧЁН (xPaddingBytes, фрагментация пакетов)
-PACKET MASKING: ВКЛЮЧЁН (подмена на легитимные CDN: fastly.net, cloudflare.com, amazon.com)
+СТАБИЛЬНОСТЬ: Максимальная (диверсификация SNI + портов)
 
-СТАБИЛЬНОСТЬ: ВЫСОКАЯ (диверсификация по локациям: EU, US, Asia, Oceania)
+SNI-ПУЛ (все):
+  id.vk.ru, smartcaptcha.yandexcloud.net, cdn.tracker.yandex.net
+  *.minzt.su, *.sellflow.org
+  *.yandex.ru, *.yandex.net, api-maps.yandex.ru, cloud.mail.ru
+  *.vk.com, *.vk.ru, userapi.com, yastatic.net
+  ads.x5.ru, web.max.ru, dzen.ru, rutube.ru
+  gosuslugi.ru, api.ok.ru, avito.ru, kinopoisk.ru
+  www.apple.com, www.tesla.com, www.cloudflare.com, wikipedia.org
+  global.fastly.com, fastly.net, amazon.com, azure.com
+  deepl.com, telegraph.co.uk, parisjetaime.com, iamsterdam.com
+  www.sony.com, www.nvidia.com, login.ns.nl, jp1.cyphervpn.pro
+  www.paypal.com, www.intel.com, www.samsung.com
+  *.oncloudnineservicestreang.com, pro-de.emrata.top
 
-SNI-ПУЛ:
-  - Глобальные: www.apple.com, www.tesla.com, www.cloudflare.com, wikipedia.org
-  - CDN/Технические: global.fastly.com, fastly.net, amazon.com, azure.com
-  - Европейские: deepl.com, telegraph.co.uk, parisjetaime.com, iamsterdam.com
-  - Азиатские: www.sony.com, www.nvidia.com, login.ns.nl, jp1.cyphervpn.pro
-  - Финансовые/Корпоративные: www.paypal.com, www.intel.com, www.samsung.com
-  - Прочие: *.oncloudnineservicestreang.com, pro-de.emrata.top и др.
-
-РЕКОМЕНДОВАННЫЕ ПОРТЫ:
-  TCP Reality: 443, 8443, 55861, 9823
+ПОРТЫ (все):
+  TCP: 443, 8443, 9445, 3443, 6443, 55861, 9823
+  gRPC: 444, 16923, 47884, 56625, 52727
+  xHTTP: 80, 443, 5443, 2083, 43264
   WebSocket: 80, 443, 8090
-  gRPC: 56625, 52727
-  xHTTP: 80, 443, 43264
 
-ПРИМЕЧАНИЕ: Ключи с НЕроссийским SNI (включая .com/.org/.net/.de/.ir и любые другие домены верхнего уровня, отсутствующие в White Albedo).
+ПРИМЕЧАНИЕ: Для RU-сегмента использовать только подтверждённые российские SNI из списка выше
 ```
 
 <div align="center"> 
@@ -149,66 +142,6 @@ SNI-ПУЛ:
 </div>
 
 </br>
-
-<div align="center"> 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e0e0e0&height=180&section=header&text=WHITE%20%2F%20ALBEDO&fontSize=40&fontColor=000000&fontAlignY=35&animation=fadeIn"/>
-
-</div>
-
-```yaml
-ПРОФИЛЬ: Стабильный
-ПРОФИЛЬ: Белый (RU-сегмент)
-
-ОСНОВА:
-  Протоколы:
-    - VLESS (основной, 90%+ ключей)
-    - Trojan (эпизодически)
-    - Hysteria2 (единичные ключи)
-  Транспорт:
-    - xHTTP (Stream-one, Packet-up)  # Основной режим
-    - gRPC (Gun, Multi)              # Альтернативный
-    - TCP (Reality, XTLS-Vision)     # Классический fallback
-    - WebSocket (редко, для специфических задач)
-  Безопасность: Reality (TLS 1.3), редко TLS
-  Шифрование: None (обфускация через XMUX)
-
-ПРЕДНАЗНАЧЕНИЕ:
-  - Российские ресурсы (VK, Яндекс, X5 Group, Госуслуги, Банки)
-  - Обход DPI с подменой на легитимный RU-трафик
-  - Стабильная работа в домашних и мобильных сетях РФ
-  - Приоритет низкой задержки к CDN внутри страны
-
-ЗАДЕРЖКА: НИЗКАЯ / СРЕДНЯЯ (локальные точки обмена трафиком)
-НАГРУЗКА: НИЗКАЯ / СРЕДНЯЯ (оптимизация под бытовые задачи)
-МАСКИРОВКА: ВЫСОКАЯ (полное соответствие RU-профилю)
-
-XMUX: ВКЛЮЧЁН (xPaddingBytes, маскировка под CDN-запросы)
-PACKET MASKING: ВКЛЮЧЁН (рандомизация fingerprint через браузерные отпечатки Chrome/Firefox/Safari)
-
-СТАБИЛЬНОСТЬ: ОЧЕНЬ ВЫСОКАЯ (избыточность SNI внутри .RU и рекомендованных диапазонов)
-
-SNI-ПУЛ:
-  - *.yandex.ru, *.yandex.net, api-maps.yandex.ru, cloud.mail.ru
-  - *.vk.com, *.vk.ru, userapi.com, yastatic.net
-  - ads.x5.ru, web.max.ru, dzen.ru, rutube.ru
-  - gosuslugi.ru, api.ok.ru, avito.ru, kinopoisk.ru
-  - id.vk.ru, smartcaptcha.yandexcloud.net, cdn.tracker.yandex.net
-  - *.minzt.su, *.sellflow.org (при наличии российского владельца/назначения)
-
-РЕКОМЕНДОВАННЫЕ ПОРТЫ:
-  TCP Reality: 443, 8443, 9445, 3443, 6443
-  gRPC: 444, 16923, 47884
-  xHTTP: 80, 443, 5443, 2083
-
-ПРИМЕЧАНИЕ: Только ключи с подтверждённым российским SNI.
-```
-
-<div align="center"> 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffffff&height=100&section=footer"/> 
-
-</div>
 
 ### Отличия
 
