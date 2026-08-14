@@ -27,7 +27,7 @@
 <div align="center"> 
 
 ```
-https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Adapt_VPN.txt 
+https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Adapt_VPN.txt
 ```  
 
 </div>
